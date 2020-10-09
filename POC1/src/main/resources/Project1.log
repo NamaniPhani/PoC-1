@@ -1,0 +1,1987 @@
+2020-09-26 13:35:27 INFO  Xl file Data posting success.........
+2020-09-26 13:35:27 DEBUG Data posted.......
+2020-09-26 13:39:25 INFO  Xl file Data posting success.........
+2020-09-26 13:39:25 DEBUG Data posted.......
+2020-09-26 13:41:14 INFO  Xl file Data posting success.........
+2020-09-26 13:41:14 DEBUG Data posted.......
+2020-09-26 13:41:50 DEBUG Job getting fine.......
+2020-09-26 13:48:28 INFO  Xl file Data posting success.........
+2020-09-26 13:48:28 DEBUG Data posted.......
+2020-09-26 13:48:38 INFO  Xl file Data posting success.........
+2020-09-26 13:48:38 DEBUG Data posted.......
+2020-09-26 13:51:05 INFO  Xl file Data posting success.........
+2020-09-26 13:51:05 DEBUG Data posted.......
+2020-09-26 13:51:06 INFO  Xl file Data posting success.........
+2020-09-26 13:51:06 DEBUG Data posted.......
+2020-09-26 13:51:07 INFO  Xl file Data posting success.........
+2020-09-26 13:51:07 DEBUG Data posted.......
+2020-09-26 13:51:08 INFO  Xl file Data posting success.........
+2020-09-26 13:51:08 DEBUG Data posted.......
+2020-09-26 13:51:10 INFO  Xl file Data posting success.........
+2020-09-26 13:51:10 DEBUG Data posted.......
+2020-09-26 13:52:24 INFO  Xl file Data posting success.........
+2020-09-26 13:52:24 DEBUG Data posted.......
+2020-09-26 13:58:16 DEBUG Job getting fine.......
+2020-09-26 15:03:35 DEBUG Job getting fine.......
+2020-09-26 15:04:05 DEBUG Job getting fine.......
+2020-09-26 15:16:03 DEBUG Job getting fine.......
+2020-09-26 15:16:31 DEBUG Job getting fine.......
+2020-09-26 15:16:55 DEBUG Job getting fine.......
+2020-09-26 15:17:29 DEBUG Job getting fine.......
+2020-09-26 15:19:01 DEBUG Job getting fine.......
+2020-09-28 11:36:34 DEBUG Job getting fine.......
+2020-09-28 12:12:02 DEBUG Job getting fine.......
+2020-09-28 12:12:25 DEBUG Job getting fine.......
+2020-09-28 12:16:29 DEBUG Job getting fine.......
+2020-09-28 12:38:19 INFO  Data posting success.........
+2020-09-28 12:38:19 DEBUG Data posted.......
+2020-09-28 12:41:09 INFO  Data posting success.........
+2020-09-28 12:41:09 DEBUG Data posted.......
+2020-09-28 12:42:28 INFO  Data posting success.........
+2020-09-28 12:42:28 DEBUG Data posted.......
+2020-09-28 12:46:34 INFO  Data posting success.........
+2020-09-28 12:46:34 DEBUG Data posted.......
+2020-09-28 12:48:12 INFO  Data posting success.........
+2020-09-28 12:48:12 DEBUG Data posted.......
+2020-09-28 12:48:34 INFO  Data posting success.........
+2020-09-28 12:48:34 DEBUG Data posted.......
+2020-09-28 12:51:18 INFO  Data posting success.........
+2020-09-28 12:51:18 DEBUG Data posted.......
+2020-09-28 12:51:44 INFO  Data posting success.........
+2020-09-28 12:51:44 DEBUG Data posted.......
+2020-09-28 14:25:06 INFO  Data posting success.........
+2020-09-28 14:25:06 DEBUG Data posted.......
+2020-09-28 14:26:04 INFO  Data posting success.........
+2020-09-28 14:26:04 DEBUG Data posted.......
+2020-09-28 14:26:20 INFO  Data posting success.........
+2020-09-28 14:26:20 DEBUG Data posted.......
+2020-09-28 14:26:54 INFO  Data posting success.........
+2020-09-28 14:26:54 DEBUG Data posted.......
+2020-09-28 14:28:07 INFO  Data posting success.........
+2020-09-28 14:28:07 DEBUG Data posted.......
+2020-09-28 14:31:26 INFO  Data posting success.........
+2020-09-28 14:31:26 DEBUG Data posted.......
+2020-09-28 14:33:14 INFO  Data posting success.........
+2020-09-28 14:33:14 DEBUG Data posted.......
+2020-09-28 14:37:23 INFO  Data posting success.........
+2020-09-28 14:37:23 DEBUG Data posted.......
+2020-09-28 14:39:36 INFO  Data posting success.........
+2020-09-28 14:39:36 DEBUG Data posted.......
+2020-09-28 14:40:39 INFO  Data posting success.........
+2020-09-28 14:40:39 DEBUG Data posted.......
+2020-09-28 14:41:21 INFO  Data posting success.........
+2020-09-28 14:41:21 DEBUG Data posted.......
+2020-09-28 14:42:13 INFO  Data posting success.........
+2020-09-28 14:42:13 DEBUG Data posted.......
+2020-09-28 14:42:47 INFO  Data posting success.........
+2020-09-28 14:42:47 DEBUG Data posted.......
+2020-09-28 14:43:17 INFO  Data posting success.........
+2020-09-28 14:43:17 DEBUG Data posted.......
+2020-09-28 14:44:13 INFO  Data posting success.........
+2020-09-28 14:44:13 DEBUG Data posted.......
+2020-09-28 14:44:47 INFO  Data posting success.........
+2020-09-28 14:44:47 DEBUG Data posted.......
+2020-09-28 14:45:52 INFO  Data posting success.........
+2020-09-28 14:45:52 DEBUG Data posted.......
+2020-09-28 14:46:26 INFO  Data posting success.........
+2020-09-28 14:46:26 DEBUG Data posted.......
+2020-09-28 16:10:44 DEBUG JobType getting fine.......
+2020-09-28 16:11:21 DEBUG JobType getting fine.......
+2020-09-28 17:32:49 DEBUG Job getting fine.......
+2020-09-28 17:32:57 DEBUG Job getting fine.......
+2020-09-28 19:08:28 INFO  Data posting success.........
+2020-09-28 19:08:28 DEBUG Data posted.......
+2020-09-29 10:13:35 DEBUG Incoming request jobid method : 1
+2020-09-29 10:17:55 DEBUG Incoming request jobid method : 22
+2020-09-29 10:20:13 DEBUG Incoming request jobid method : 10
+2020-09-29 10:20:34 DEBUG Incoming request jobid method : 55
+2020-09-29 10:21:50 DEBUG Incoming request jobid method : 55
+2020-09-29 10:24:09 DEBUG Incoming request jobid method : 1
+2020-09-29 10:24:14 DEBUG Incoming request jobid method : 10
+2020-09-29 10:24:18 DEBUG Incoming request jobid method : 100
+2020-09-29 10:26:34 DEBUG Incoming request jobid method : 1
+2020-09-29 10:27:05 DEBUG Incoming request jobid method : 1
+2020-09-29 10:27:09 DEBUG Incoming request jobid method : 10
+2020-09-29 10:27:17 DEBUG Incoming request jobid method : 22
+2020-09-29 10:27:22 DEBUG Incoming request jobid method : 26
+2020-09-29 10:27:29 DEBUG Incoming request jobid method : 100
+2020-09-29 10:28:53 DEBUG Incoming request jobid method : 0
+2020-09-29 11:43:22 DEBUG Incoming request job controller : JobPortal(id=0, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=IND, state=TN, availability=Part-Time, replyRate=10, payRate=44, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=null)
+2020-09-29 11:43:22 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=IND, state=TN, availability=Part-Time, replyRate=10, payRate=44, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=null)
+2020-09-29 11:43:22 ERROR Fields should not be null
+2020-09-29 12:09:34 DEBUG Incoming request job controller : JobPortal(id=0, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=, state=TN, availability=Part-Time, replyRate=10, payRate=44, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=null)
+2020-09-29 12:09:34 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=, state=TN, availability=Part-Time, replyRate=10, payRate=44, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=null)
+2020-09-29 12:09:34 ERROR Fields should not be null
+2020-09-29 12:10:04 DEBUG Incoming request job controller : JobPortal(id=0, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=hfhfh, state=TN, availability=Part-Time, replyRate=10, payRate=44, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=null)
+2020-09-29 12:10:04 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=hfhfh, state=TN, availability=Part-Time, replyRate=10, payRate=44, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=null)
+2020-09-29 12:10:04 ERROR Fields should not be null
+2020-09-29 12:10:18 DEBUG Incoming request job controller : JobPortal(id=0, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=hfhfh, state=TN, availability=Part-Time, replyRate=10, payRate=44, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=null)
+2020-09-29 12:10:18 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=hfhfh, state=TN, availability=Part-Time, replyRate=10, payRate=44, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=null)
+2020-09-29 12:10:18 ERROR Fields should not be null
+2020-09-29 12:11:41 DEBUG Incoming request job controller : JobPortal(id=0, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=hfhfh, state=TN, availability=Part-Time, replyRate=10, payRate=44, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=UserInfo(id=0, username=Developer))
+2020-09-29 12:11:41 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=hfhfh, state=TN, availability=Part-Time, replyRate=10, payRate=44, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=UserInfo(id=0, username=Developer))
+2020-09-29 12:14:01 DEBUG Incoming request job controller : JobPortal(id=0, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=hfhfh, state=TNfsdfgsgsg, availability=Part-Time, replyRate=10, payRate=44, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=UserInfo(id=0, username=Developer))
+2020-09-29 12:14:01 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=hfhfh, state=TNfsdfgsgsg, availability=Part-Time, replyRate=10, payRate=44, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=UserInfo(id=0, username=Developer))
+2020-09-29 12:17:37 DEBUG Incoming request job controller : JobPortal(id=0, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=hfhfh, state=TNfsdfgsgsg, availability=Part-Time, replyRate=10, payRate=44, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=UserInfo(id=0, username=Developer))
+2020-09-29 12:17:37 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=hfhfh, state=TNfsdfgsgsg, availability=Part-Time, replyRate=10, payRate=44, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=UserInfo(id=0, username=Developer))
+2020-09-29 12:31:16 DEBUG Incoming request job controller : JobPortal(id=0, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=hfhfh, state=TNfsdfgsgsg, availability=Part-Time, replyRate=10, payRate=null, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=UserInfo(id=0, username=Developer))
+2020-09-29 12:31:16 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=hfhfh, state=TNfsdfgsgsg, availability=Part-Time, replyRate=10, payRate=null, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=UserInfo(id=0, username=Developer))
+2020-09-29 12:31:16 ERROR Fields should not be null
+2020-09-29 12:31:33 DEBUG Incoming request job controller : JobPortal(id=0, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=hfhfh, state=TNfsdfgsgsg, availability=Part-Time, replyRate=10, payRate=0, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=UserInfo(id=0, username=Developer))
+2020-09-29 12:31:33 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=hfhfh, state=TNfsdfgsgsg, availability=Part-Time, replyRate=10, payRate=0, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=UserInfo(id=0, username=Developer))
+2020-09-29 12:37:05 DEBUG Incoming request jobid method : 1
+2020-09-29 12:37:05 DEBUG Incoming request job service id method : 1
+2020-09-29 12:37:13 DEBUG Incoming request jobid method : 27
+2020-09-29 12:37:13 DEBUG Incoming request job service id method : 27
+2020-09-29 12:37:13 ERROR Record not found
+2020-09-29 12:37:26 DEBUG Incoming request jobid method : 26
+2020-09-29 12:37:26 DEBUG Incoming request job service id method : 26
+2020-09-29 12:37:47 DEBUG Incoming request jobid method : 0
+2020-09-29 12:37:47 DEBUG Incoming request job service id method : 0
+2020-09-29 12:37:47 ERROR Invalid request
+2020-09-29 12:40:27 DEBUG Incoming request jobid method : 27
+2020-09-29 12:40:27 DEBUG Incoming request job service id method : 27
+2020-09-29 12:40:27 ERROR Record not found
+2020-09-29 12:40:33 DEBUG Incoming request jobid method : 26
+2020-09-29 12:40:33 DEBUG Incoming request job service id method : 26
+2020-09-29 12:49:59 DEBUG Incoming request type method : tempcdc
+2020-09-29 12:49:59 DEBUG Incoming request job service type method : tempcdc
+2020-09-29 12:49:59 ERROR Record not found
+2020-09-29 12:50:07 DEBUG Incoming request type method : temp
+2020-09-29 12:50:07 DEBUG Incoming request job service type method : temp
+2020-09-29 12:50:47 DEBUG Incoming request jobid method : 27
+2020-09-29 12:50:47 DEBUG Incoming request job service id method : 27
+2020-09-29 12:50:47 ERROR Record not found
+2020-09-29 12:50:54 DEBUG Incoming request jobid method : 26
+2020-09-29 12:50:54 DEBUG Incoming request job service id method : 26
+2020-09-29 12:51:24 DEBUG Incoming request type method : kkj
+2020-09-29 12:51:24 DEBUG Incoming request job service type method : kkj
+2020-09-29 12:51:24 ERROR Record not found
+2020-09-29 12:53:37 DEBUG Incoming request type method : jkk
+2020-09-29 12:53:37 DEBUG Incoming request job service type method : jkk
+2020-09-29 12:53:37 ERROR Record not found
+2020-09-29 13:03:03 DEBUG Incoming request experience method : 6
+2020-09-29 13:03:03 DEBUG Incoming request job service experience method : 6
+2020-09-29 13:03:16 DEBUG Incoming request experience method : 7
+2020-09-29 13:03:16 DEBUG Incoming request job service experience method : 7
+2020-09-29 13:03:16 ERROR Record not found
+2020-09-29 14:12:03 DEBUG Incoming request experience method : 5
+2020-09-29 14:12:03 DEBUG Incoming request job service experience method : 5
+2020-09-29 14:13:34 DEBUG Incoming request experience method : 6
+2020-09-29 14:13:34 DEBUG Incoming request job service experience method : 6
+2020-09-29 14:13:38 DEBUG Incoming request experience method : 5
+2020-09-29 14:13:38 DEBUG Incoming request job service experience method : 5
+2020-09-29 14:13:48 DEBUG Incoming request experience method : 6
+2020-09-29 14:13:48 DEBUG Incoming request job service experience method : 6
+2020-09-29 14:14:25 DEBUG Incoming request experience method : 6
+2020-09-29 14:14:25 DEBUG Incoming request job service experience method : 6
+2020-09-29 14:14:31 DEBUG Incoming request experience method : 9
+2020-09-29 14:14:31 DEBUG Incoming request job service experience method : 9
+2020-09-29 14:14:31 ERROR Record not found
+2020-09-29 14:14:36 DEBUG Incoming request experience method : 5
+2020-09-29 14:14:36 DEBUG Incoming request job service experience method : 5
+2020-09-29 14:16:25 DEBUG Incoming request experience method : 5
+2020-09-29 14:16:25 DEBUG Incoming request job service experience method : 5
+2020-09-29 14:20:30 DEBUG Incoming request experience method : 5
+2020-09-29 14:20:30 DEBUG Incoming request job service experience method : 5
+2020-09-29 14:20:42 DEBUG Incoming request experience method : 6
+2020-09-29 14:20:42 DEBUG Incoming request job service experience method : 6
+2020-09-29 14:23:45 DEBUG Incoming request country method : ind
+2020-09-29 14:23:45 DEBUG Incoming request job service country method : ind
+2020-09-29 14:23:53 DEBUG Incoming request country method : indfef
+2020-09-29 14:23:53 DEBUG Incoming request job service country method : indfef
+2020-09-29 14:23:53 ERROR Record not found
+2020-09-29 14:29:49 DEBUG Incoming request availability method : full-time
+2020-09-29 14:29:49 DEBUG Incoming request job service availability method : full-time
+2020-09-29 14:30:48 DEBUG Incoming request availability method : full-time
+2020-09-29 14:30:48 DEBUG Incoming request job service availability method : full-time
+2020-09-29 14:31:00 DEBUG Incoming request availability method : part-time
+2020-09-29 14:31:00 DEBUG Incoming request job service availability method : part-time
+2020-09-29 14:31:05 DEBUG Incoming request availability method : parttime
+2020-09-29 14:31:05 DEBUG Incoming request job service availability method : parttime
+2020-09-29 14:31:05 ERROR Record not found
+2020-09-29 14:31:09 DEBUG Incoming request availability method : part-time
+2020-09-29 14:31:09 DEBUG Incoming request job service availability method : part-time
+2020-09-29 14:31:14 DEBUG Incoming request availability method : 0
+2020-09-29 14:31:14 DEBUG Incoming request job service availability method : 0
+2020-09-29 14:31:14 ERROR Record not found
+2020-09-29 14:31:17 DEBUG Incoming request availability method : null
+2020-09-29 14:31:17 DEBUG Incoming request job service availability method : null
+2020-09-29 14:31:17 ERROR Record not found
+2020-09-29 14:31:25 DEBUG Incoming request availability method : 098
+2020-09-29 14:31:25 DEBUG Incoming request job service availability method : 098
+2020-09-29 14:31:25 ERROR Record not found
+2020-09-29 14:34:08 DEBUG Incoming request skills method : Angular, CSS, HTML
+2020-09-29 14:34:13 DEBUG Incoming request skills method : Angular, CSS, HTML
+2020-09-29 14:34:24 DEBUG Incoming request skills method : Angular
+2020-09-29 14:34:26 DEBUG Incoming request skills method : Angular
+2020-09-29 14:34:56 DEBUG Incoming request skills method : Angular
+2020-09-29 14:34:57 DEBUG Incoming request skills method : Angular
+2020-09-29 14:34:58 DEBUG Incoming request skills method : Angular
+2020-09-29 14:34:58 DEBUG Incoming request skills method : Angular
+2020-09-29 14:34:59 DEBUG Incoming request skills method : Angular
+2020-09-29 14:35:19 DEBUG Incoming request skills method : Angular, CSS, HTML
+2020-09-29 14:35:20 DEBUG Incoming request skills method : Angular, CSS, HTML
+2020-09-29 14:35:20 DEBUG Incoming request skills method : Angular, CSS, HTML
+2020-09-29 14:35:22 DEBUG Incoming request skills method : Angular, CSS, HTML
+2020-09-29 14:35:23 DEBUG Incoming request skills method : Angular, CSS, HTML
+2020-09-29 14:37:10 DEBUG Incoming request skills method : Angular
+2020-09-29 14:37:11 DEBUG Incoming request skills method : Angular
+2020-09-29 14:37:12 DEBUG Incoming request skills method : Angular
+2020-09-29 14:37:13 DEBUG Incoming request skills method : Angular
+2020-09-29 14:42:29 DEBUG Incoming request skills method : Angular
+2020-09-29 14:42:29 DEBUG Incoming request job service skills method : Angular
+2020-09-29 14:42:44 DEBUG Incoming request skills method : fsf
+2020-09-29 14:42:44 DEBUG Incoming request job service skills method : fsf
+2020-09-29 14:42:44 ERROR Record not found
+2020-09-29 14:42:47 DEBUG Incoming request skills method : r454
+2020-09-29 14:42:47 DEBUG Incoming request job service skills method : r454
+2020-09-29 14:42:47 ERROR Record not found
+2020-09-29 14:42:52 DEBUG Incoming request skills method : 545
+2020-09-29 14:42:52 DEBUG Incoming request job service skills method : 545
+2020-09-29 14:42:52 ERROR Record not found
+2020-09-29 14:42:57 DEBUG Incoming request skills method : null
+2020-09-29 14:42:57 DEBUG Incoming request job service skills method : null
+2020-09-29 14:42:57 ERROR Record not found
+2020-09-29 14:43:43 DEBUG Incoming request skills method : angular
+2020-09-29 14:43:43 DEBUG Incoming request job service skills method : angular
+2020-09-29 14:43:51 DEBUG Incoming request skills method : fsf
+2020-09-29 14:43:51 DEBUG Incoming request job service skills method : fsf
+2020-09-29 14:43:51 ERROR Record not found
+2020-09-29 14:43:54 DEBUG Incoming request skills method : 0
+2020-09-29 14:43:54 DEBUG Incoming request job service skills method : 0
+2020-09-29 14:43:54 ERROR Record not found
+2020-09-29 14:44:13 DEBUG Incoming request language method : english
+2020-09-29 14:44:13 DEBUG Incoming request job service language method : english
+2020-09-29 14:45:00 DEBUG Incoming request language method : telugu
+2020-09-29 14:45:00 DEBUG Incoming request job service language method : telugu
+2020-09-29 14:45:11 DEBUG Incoming request language method : gsg
+2020-09-29 14:45:11 DEBUG Incoming request job service language method : gsg
+2020-09-29 14:45:11 ERROR Record not found
+2020-09-29 14:45:15 DEBUG Incoming request language method : telugu
+2020-09-29 14:45:15 DEBUG Incoming request job service language method : telugu
+2020-09-29 15:12:58 DEBUG Incoming request uploadfile method 
+2020-09-29 15:13:35 DEBUG Incoming request uploadfile method 
+2020-09-29 15:14:46 DEBUG Incoming request uploadfile method 
+2020-09-29 15:16:13 DEBUG Incoming request uploadfile method 
+2020-09-29 15:18:07 DEBUG Incoming request uploadfile method 
+2020-09-29 15:18:35 DEBUG Incoming request uploadfile method 
+2020-09-29 15:18:36 DEBUG Incoming request uploadfile method 
+2020-09-29 15:18:37 DEBUG Incoming request uploadfile method 
+2020-09-29 15:18:38 DEBUG Incoming request uploadfile method 
+2020-09-29 15:20:14 DEBUG Incoming request uploadfile method 
+2020-09-29 15:42:06 DEBUG Incoming request getalljob method 
+2020-09-29 15:42:06 DEBUG Incoming request job service getalljob method 
+2020-09-29 15:42:16 DEBUG Incoming request getalljob method 
+2020-09-29 15:42:16 DEBUG Incoming request job service getalljob method 
+2020-09-29 15:42:30 DEBUG Incoming request getalljob method 
+2020-09-29 15:42:30 DEBUG Incoming request job service getalljob method 
+2020-09-29 15:42:44 DEBUG Incoming request getalljob method 
+2020-09-29 15:42:44 DEBUG Incoming request job service getalljob method 
+2020-09-29 15:42:44 ERROR Record not found
+2020-09-29 15:43:17 DEBUG Incoming request getalljob method 
+2020-09-29 15:43:17 DEBUG Incoming request job service getalljob method 
+2020-09-29 15:43:27 DEBUG Incoming request getalljob method 
+2020-09-29 15:43:27 DEBUG Incoming request job service getalljob method 
+2020-09-29 15:43:32 DEBUG Incoming request getalljob method 
+2020-09-29 15:43:32 DEBUG Incoming request job service getalljob method 
+2020-09-29 15:43:32 ERROR Record not found
+2020-09-29 15:44:14 DEBUG Incoming request payrate method : 120
+2020-09-29 15:44:14 DEBUG Incoming request job service payrate method : 120
+2020-09-29 15:44:14 ERROR Record not found
+2020-09-29 15:44:20 DEBUG Incoming request payrate method : 1020
+2020-09-29 15:44:20 DEBUG Incoming request job service payrate method : 1020
+2020-09-29 15:44:20 ERROR Record not found
+2020-09-29 15:44:30 DEBUG Incoming request payrate method : 2045
+2020-09-29 15:44:30 DEBUG Incoming request job service payrate method : 2045
+2020-09-29 15:44:37 DEBUG Incoming request payrate method : 2050
+2020-09-29 15:44:37 DEBUG Incoming request job service payrate method : 2050
+2020-09-29 15:48:29 DEBUG Incoming request payrate method : 2050
+2020-09-29 15:48:29 DEBUG Incoming request job service payrate method : 2050
+2020-09-29 15:53:14 DEBUG Incoming request jobid method : 1
+2020-09-29 15:53:14 DEBUG Incoming request job service id method : 1
+2020-09-29 15:53:14 ERROR Record not found
+2020-09-29 15:53:15 DEBUG Incoming request jobid method : 1
+2020-09-29 15:53:15 DEBUG Incoming request job service id method : 1
+2020-09-29 15:53:15 ERROR Record not found
+2020-09-29 15:53:53 DEBUG Incoming request jobid method : 1
+2020-09-29 15:53:53 DEBUG Incoming request job service id method : 1
+2020-09-29 15:53:53 ERROR Record not found
+2020-09-29 15:54:33 DEBUG Incoming request jobid method : 4
+2020-09-29 15:54:33 DEBUG Incoming request job service id method : 4
+2020-09-29 15:54:43 DEBUG Incoming request jobid method : 1
+2020-09-29 15:54:43 DEBUG Incoming request job service id method : 1
+2020-09-29 15:54:43 ERROR Record not found
+2020-09-29 15:55:12 DEBUG Incoming request jobid method : 5
+2020-09-29 15:55:12 DEBUG Incoming request job service id method : 5
+2020-09-29 15:57:42 DEBUG Incoming request jobid method : 5
+2020-09-29 15:57:42 DEBUG Incoming request job service id method : 5
+2020-09-29 17:04:30 DEBUG Incoming request jobid method : 5
+2020-09-29 17:04:30 DEBUG Incoming request job service id method : 5
+2020-09-29 17:12:48 DEBUG Incoming request jobid method : 0
+2020-09-29 17:12:48 DEBUG Incoming request job service id method : 0
+2020-09-29 17:12:48 ERROR Invalid request
+2020-09-29 17:14:32 DEBUG Incoming request jobid method : 14
+2020-09-29 17:14:32 DEBUG Incoming request job service id method : 14
+2020-09-29 17:14:32 ERROR Record not found
+2020-09-29 17:14:37 DEBUG Incoming request jobid method : 1
+2020-09-29 17:14:37 DEBUG Incoming request job service id method : 1
+2020-09-29 17:14:38 ERROR Record not found
+2020-09-29 17:14:40 DEBUG Incoming request jobid method : 1
+2020-09-29 17:14:40 DEBUG Incoming request job service id method : 1
+2020-09-29 17:14:40 ERROR Record not found
+2020-09-29 17:14:41 DEBUG Incoming request jobid method : 1
+2020-09-29 17:14:41 DEBUG Incoming request job service id method : 1
+2020-09-29 17:14:41 ERROR Record not found
+2020-09-29 17:14:42 DEBUG Incoming request jobid method : 1
+2020-09-29 17:14:42 DEBUG Incoming request job service id method : 1
+2020-09-29 17:14:42 ERROR Record not found
+2020-09-29 17:14:44 DEBUG Incoming request jobid method : 4
+2020-09-29 17:14:44 DEBUG Incoming request job service id method : 4
+2020-09-29 17:39:27 DEBUG Incoming request jobid method : 4
+2020-09-29 17:39:27 DEBUG Incoming request job service id method : 4
+2020-09-29 17:41:41 DEBUG Incoming request jobid method : null
+2020-09-29 17:41:41 DEBUG Incoming request job service id method : null
+2020-09-29 17:41:41 ERROR Invalid request
+2020-09-29 18:01:56 DEBUG Incoming request jobid method : 0
+2020-09-29 18:01:56 DEBUG Incoming request job service id method : 0
+2020-09-29 18:01:56 ERROR Invalid request
+2020-09-29 18:03:36 DEBUG Incoming request type method : Development
+2020-09-29 18:03:36 DEBUG Incoming request job service type method : Development
+2020-09-29 18:04:45 DEBUG Incoming request type method : null
+2020-09-29 18:04:45 DEBUG Incoming request job service type method : null
+2020-09-29 18:04:45 ERROR Record not found
+2020-09-29 18:06:28 DEBUG Incoming request jobid method : 0
+2020-09-29 18:06:28 DEBUG Incoming request job service id method : 0
+2020-09-29 18:06:28 ERROR Invalid request
+2020-09-29 18:07:25 DEBUG Incoming request jobid method : 1
+2020-09-29 18:07:25 DEBUG Incoming request job service id method : 1
+2020-09-29 18:07:25 ERROR Record not found
+2020-09-29 18:07:43 DEBUG Incoming request jobid method : 4
+2020-09-29 18:07:43 DEBUG Incoming request job service id method : 4
+2020-09-29 18:15:00 DEBUG Incoming request jobid method : 4
+2020-09-29 18:15:00 DEBUG Incoming request job service id method : 4
+2020-09-29 18:15:07 DEBUG Incoming request jobid method : 0
+2020-09-29 18:15:07 DEBUG Incoming request job service id method : 0
+2020-09-29 18:15:07 ERROR Invalid request
+2020-09-29 18:15:13 DEBUG Incoming request jobid method : 55
+2020-09-29 18:15:13 DEBUG Incoming request job service id method : 55
+2020-09-29 18:15:13 ERROR Record not found
+2020-09-29 18:15:17 DEBUG Incoming request jobid method : 0
+2020-09-29 18:15:17 DEBUG Incoming request job service id method : 0
+2020-09-29 18:15:17 ERROR Invalid request
+2020-09-29 18:17:37 DEBUG Incoming request jobid method : 0
+2020-09-29 18:17:37 DEBUG Incoming request job service id method : 0
+2020-09-29 18:17:37 ERROR Invalid request
+2020-09-29 18:17:42 DEBUG Incoming request jobid method : 5
+2020-09-29 18:17:42 DEBUG Incoming request job service id method : 5
+2020-09-29 18:22:35 DEBUG Incoming request jobid method : 5
+2020-09-29 18:22:35 DEBUG Incoming request job service id method : 5
+2020-09-29 18:22:43 DEBUG Incoming request jobid method : 1
+2020-09-29 18:22:43 DEBUG Incoming request job service id method : 1
+2020-09-29 18:22:43 ERROR Record not found
+2020-09-29 18:22:47 DEBUG Incoming request jobid method : 0
+2020-09-29 18:22:47 DEBUG Incoming request job service id method : 0
+2020-09-29 18:22:47 ERROR Invalid request
+2020-09-29 18:22:51 DEBUG Incoming request jobid method : 1
+2020-09-29 18:22:51 DEBUG Incoming request job service id method : 1
+2020-09-29 18:22:51 ERROR Record not found
+2020-09-29 18:25:29 DEBUG Incoming request experience method : 5
+2020-09-29 18:25:29 DEBUG Incoming request job service experience method : 5
+2020-09-29 18:25:32 DEBUG Incoming request experience method : 6
+2020-09-29 18:25:32 DEBUG Incoming request job service experience method : 6
+2020-09-29 18:25:41 DEBUG Incoming request experience method : 7
+2020-09-29 18:25:41 DEBUG Incoming request job service experience method : 7
+2020-09-29 18:25:41 ERROR Record not found
+2020-09-29 18:27:19 DEBUG Incoming request experience method : 0
+2020-09-29 18:27:19 DEBUG Incoming request job service experience method : 0
+2020-09-29 18:27:19 ERROR Invalid request
+2020-09-29 18:28:05 DEBUG Incoming request experience method : 8
+2020-09-29 18:28:05 DEBUG Incoming request job service experience method : 8
+2020-09-29 18:28:05 ERROR Record not found
+2020-09-29 18:58:10 DEBUG Incoming request jobid method : 4
+2020-09-29 18:58:10 DEBUG Incoming request job service id method : 4
+2020-09-30 12:12:15 DEBUG Incoming request jobid method : 4
+2020-09-30 12:12:15 DEBUG Incoming request job service id method : 4
+2020-09-30 12:13:05 DEBUG Incoming request jobid method : 4
+2020-09-30 12:13:05 DEBUG Incoming request job service id method : 4
+2020-09-30 12:13:47 DEBUG Incoming request jobid method : 4
+2020-09-30 12:13:47 DEBUG Incoming request job service id method : 4
+2020-09-30 12:17:07 DEBUG Incoming request job controller : JobPortal(id=0, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=hfhfh, state=TNfsdfgsgsg, availability=Part-Time, replyRate=0, payRate=null, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=UserInfo(id=0, username=Developer))
+2020-09-30 12:17:07 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=hfhfh, state=TNfsdfgsgsg, availability=Part-Time, replyRate=0, payRate=null, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=UserInfo(id=0, username=Developer))
+2020-09-30 12:17:07 ERROR Fields should not be null
+2020-09-30 12:17:39 DEBUG Incoming request job controller : JobPortal(id=0, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=hfhfh, state=TNfsdfgsgsg, availability=Part-Time, replyRate=0, payRate=1, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=UserInfo(id=0, username=Developer))
+2020-09-30 12:17:39 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=hfhfh, state=TNfsdfgsgsg, availability=Part-Time, replyRate=0, payRate=1, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=UserInfo(id=0, username=Developer))
+2020-09-30 12:20:33 DEBUG Incoming request job controller : JobPortal(id=0, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=hfhfh, state=TNfsdfgsgsg, availability=Part-Time, replyRate=0, payRate=1, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=UserInfo(id=0, username=Developer))
+2020-09-30 12:20:33 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=hfhfh, state=TNfsdfgsgsg, availability=Part-Time, replyRate=0, payRate=1, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=UserInfo(id=0, username=Developer))
+2020-09-30 12:22:37 DEBUG Incoming request job controller : JobPortal(id=0, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=hfhfh, state=TNfsdfgsgsg, availability=Part-Time, replyRate=0, payRate=1, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=UserInfo(id=0, username=Developer))
+2020-09-30 12:22:37 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=hfhfh, state=TNfsdfgsgsg, availability=Part-Time, replyRate=0, payRate=1, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=UserInfo(id=0, username=Developer))
+2020-09-30 12:24:02 DEBUG Incoming request job controller : JobPortal(id=1, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=hfhfh, state=TNfsdfgsgsg, availability=Part-Time, replyRate=0, payRate=1, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=UserInfo(id=0, username=Developer))
+2020-09-30 12:24:02 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=python dev,java dev, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=hfhfh, state=TNfsdfgsgsg, availability=Part-Time, replyRate=0, payRate=1, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Testing, userInfo=UserInfo(id=0, username=Developer))
+2020-09-30 13:52:43 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=null))
+2020-09-30 13:54:59 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 13:55:25 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 14:01:20 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 14:02:07 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 14:03:44 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 14:06:21 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 14:07:49 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 14:08:28 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 14:09:46 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 14:11:41 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 14:11:41 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 14:15:47 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 14:18:22 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 14:18:58 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 14:19:05 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 14:31:46 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 14:31:51 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 14:32:56 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 14:33:59 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 14:35:01 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 14:35:01 DEBUG Incoming request job service : null
+2020-09-30 14:35:01 ERROR Invalid request
+2020-09-30 14:38:45 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 14:43:56 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=null, jobDescription=null, country=null, state=null, availability=null, replyRate=null, payRate=null, experience=null, skills=null, language=null, jobType=null, userInfo=null)
+2020-09-30 14:43:56 ERROR Fields should not be null
+2020-09-30 14:44:19 DEBUG Incoming request job service : null
+2020-09-30 14:44:19 ERROR Invalid request
+2020-09-30 14:56:02 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 14:56:34 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 14:57:27 DEBUG Incoming request job service : null
+2020-09-30 14:57:27 ERROR Invalid request
+2020-09-30 14:57:36 DEBUG Incoming request job service : null
+2020-09-30 14:57:36 ERROR Invalid request
+2020-09-30 14:59:00 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 14:59:57 DEBUG Incoming request job service : null
+2020-09-30 14:59:57 ERROR Invalid request
+2020-09-30 15:00:48 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 15:29:19 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 15:35:03 DEBUG Incoming request job service id method : 1
+2020-09-30 15:35:03 ERROR Record not found
+2020-09-30 15:38:38 DEBUG Incoming request job service id method : 0
+2020-09-30 15:38:38 ERROR Invalid request
+2020-09-30 15:44:54 DEBUG Incoming request job service id method : 1
+2020-09-30 15:44:54 ERROR Record not found
+2020-09-30 15:47:10 DEBUG Incoming request job service id method : 0
+2020-09-30 15:47:10 ERROR Invalid request
+2020-09-30 15:47:55 DEBUG Incoming request job service id method : 1
+2020-09-30 15:47:55 ERROR Record not found
+2020-09-30 15:49:49 DEBUG Incoming request job service : null
+2020-09-30 15:49:49 ERROR Invalid request
+2020-09-30 15:49:57 DEBUG Incoming request job service : null
+2020-09-30 15:49:57 ERROR Invalid request
+2020-09-30 15:50:35 DEBUG Incoming request job service : null
+2020-09-30 15:50:35 ERROR Invalid request
+2020-09-30 15:53:10 DEBUG Incoming request job service id method : 1
+2020-09-30 15:53:10 ERROR Record not found
+2020-09-30 15:55:26 DEBUG Incoming request job service id method : 1
+2020-09-30 15:55:26 ERROR Record not found
+2020-09-30 15:55:59 DEBUG Incoming request job service id method : 1
+2020-09-30 15:55:59 ERROR Record not found
+2020-09-30 15:57:18 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 15:58:45 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=null, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 15:58:45 ERROR Fields should not be null
+2020-09-30 16:00:45 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=, jobDescription=null, country=, state=, availability=, replyRate=null, payRate=null, experience=null, skills=, language=, jobType=, userInfo=UserInfo(id=0, username=))
+2020-09-30 16:00:45 ERROR Fields should not be null
+2020-09-30 16:01:57 DEBUG Incoming request job service : null
+2020-09-30 16:01:57 ERROR Invalid request
+2020-09-30 16:07:03 DEBUG Incoming request job service : null
+2020-09-30 16:07:03 ERROR Invalid request
+2020-09-30 16:11:09 DEBUG Incoming request job service id method : 1
+2020-09-30 16:11:09 ERROR Record not found
+2020-09-30 16:43:19 DEBUG Incoming request job service id method : 1
+2020-09-30 16:43:19 ERROR Record not found
+2020-09-30 16:44:08 DEBUG Incoming request job service id method : 1
+2020-09-30 16:44:08 ERROR Record not found
+2020-09-30 16:44:16 DEBUG Incoming request job service id method : 1
+2020-09-30 16:44:16 ERROR Record not found
+2020-09-30 16:50:00 DEBUG Incoming request job service id method : 1
+2020-09-30 16:50:00 ERROR Record not found
+2020-09-30 16:51:05 DEBUG Incoming request job service id method : 1
+2020-09-30 16:56:22 DEBUG Incoming request job service id method : 1
+2020-09-30 16:56:22 ERROR Record not found
+2020-09-30 16:59:11 DEBUG Incoming request job service id method : 0
+2020-09-30 16:59:11 ERROR Invalid request
+2020-09-30 17:04:17 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-09-30 17:04:25 DEBUG Incoming request job service : null
+2020-09-30 17:04:25 ERROR Invalid request
+2020-09-30 17:06:12 DEBUG Incoming request job service : null
+2020-09-30 17:06:12 ERROR Invalid request
+2020-09-30 17:09:00 DEBUG Incoming request job service : null
+2020-09-30 17:09:00 ERROR Invalid request
+2020-09-30 17:10:09 DEBUG Incoming request job service : null
+2020-09-30 17:10:09 ERROR Invalid request
+2020-09-30 17:17:06 DEBUG Incoming request job service id method : 1
+2020-09-30 17:17:06 ERROR Record not found
+2020-09-30 17:18:50 DEBUG Incoming request job service id method : 1
+2020-09-30 17:28:38 DEBUG Incoming request job service id method : 1
+2020-09-30 17:28:38 ERROR Record not found
+2020-09-30 17:32:48 DEBUG Incoming request job service id method : 0
+2020-09-30 17:32:48 ERROR Invalid request
+2020-09-30 17:34:06 DEBUG Incoming request job service id method : 0
+2020-09-30 17:34:06 ERROR Invalid request
+2020-09-30 17:36:06 DEBUG Incoming request job service id method : 0
+2020-09-30 17:36:06 ERROR Invalid request
+2020-09-30 17:37:36 DEBUG Incoming request job service id method : 1
+2020-09-30 17:37:36 ERROR Record not found
+2020-09-30 18:42:12 DEBUG Incoming request job service : null
+2020-09-30 18:42:12 ERROR Invalid request
+2020-10-01 10:28:48 DEBUG Incoming request job service id method : 1
+2020-10-01 10:28:48 ERROR Record not found
+2020-10-01 10:29:48 DEBUG Incoming request job service id method : 0
+2020-10-01 10:29:48 ERROR Invalid request
+2020-10-01 10:30:43 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 11:03:21 DEBUG Incoming request job service id method : 0
+2020-10-01 11:03:21 ERROR Invalid request
+2020-10-01 11:59:05 DEBUG Incoming request jobid method : 1
+2020-10-01 11:59:05 DEBUG Incoming request job service id method : 1
+2020-10-01 12:06:09 DEBUG Incoming request job service id method : 0
+2020-10-01 12:06:09 ERROR Invalid request
+2020-10-01 12:06:09 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 12:07:13 DEBUG Incoming request job service id method : 0
+2020-10-01 12:07:13 ERROR Invalid request
+2020-10-01 12:07:13 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 12:07:13 DEBUG Incoming request job service : null
+2020-10-01 12:07:13 ERROR Invalid request
+2020-10-01 12:07:57 DEBUG Incoming request job service id method : 0
+2020-10-01 12:07:57 ERROR Invalid request
+2020-10-01 12:08:33 DEBUG Incoming request job service id method : 0
+2020-10-01 12:08:33 ERROR Invalid request
+2020-10-01 12:08:33 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 12:08:33 DEBUG Incoming request job service : null
+2020-10-01 12:08:33 ERROR Invalid request
+2020-10-01 12:09:02 DEBUG Incoming request job service id method : 0
+2020-10-01 12:09:02 ERROR Invalid request
+2020-10-01 12:09:02 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 12:09:02 DEBUG Incoming request job service : null
+2020-10-01 12:09:02 ERROR Invalid request
+2020-10-01 12:09:18 DEBUG Incoming request job service id method : 1
+2020-10-01 12:09:18 ERROR Record not found
+2020-10-01 12:09:18 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 12:09:18 DEBUG Incoming request job service : null
+2020-10-01 12:09:18 ERROR Invalid request
+2020-10-01 12:10:50 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 12:10:51 DEBUG Incoming request job service : null
+2020-10-01 12:10:51 ERROR Invalid request
+2020-10-01 12:11:42 DEBUG Incoming request job service id method : 1
+2020-10-01 12:11:42 ERROR Record not found
+2020-10-01 12:11:42 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 12:11:43 DEBUG Incoming request job service : null
+2020-10-01 12:11:43 ERROR Invalid request
+2020-10-01 12:16:07 DEBUG Incoming request jobid method : 1
+2020-10-01 12:16:07 DEBUG Incoming request job service id method : 1
+2020-10-01 12:16:51 DEBUG Incoming request experience method : 1
+2020-10-01 12:16:51 DEBUG Incoming request job service experience method : 1
+2020-10-01 12:16:51 ERROR Record not found
+2020-10-01 12:16:58 DEBUG Incoming request experience method : 5
+2020-10-01 12:16:58 DEBUG Incoming request job service experience method : 5
+2020-10-01 12:18:33 DEBUG Incoming request jobid method : 1
+2020-10-01 12:18:33 DEBUG Incoming request job service id method : 1
+2020-10-01 12:18:40 DEBUG Incoming request jobid method : 1
+2020-10-01 12:18:40 DEBUG Incoming request job service id method : 1
+2020-10-01 12:18:51 DEBUG Incoming request jobid method : 1
+2020-10-01 12:18:51 DEBUG Incoming request job service id method : 1
+2020-10-01 12:31:04 DEBUG Incoming request job service id method : 1
+2020-10-01 12:31:04 ERROR Record not found
+2020-10-01 12:31:04 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 12:31:04 DEBUG Incoming request job service : null
+2020-10-01 12:31:04 ERROR Invalid request
+2020-10-01 12:31:21 DEBUG Incoming request job service id method : 1
+2020-10-01 12:31:21 ERROR Record not found
+2020-10-01 12:31:21 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 12:31:21 DEBUG Incoming request job service : null
+2020-10-01 12:31:21 ERROR Invalid request
+2020-10-01 12:34:17 DEBUG Incoming request job service id method : 0
+2020-10-01 12:34:17 ERROR Invalid request
+2020-10-01 12:34:17 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 12:34:18 DEBUG Incoming request job service : null
+2020-10-01 12:34:18 ERROR Invalid request
+2020-10-01 12:34:47 DEBUG Incoming request job service id method : 0
+2020-10-01 12:34:47 ERROR Invalid request
+2020-10-01 12:34:47 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 12:34:47 DEBUG Incoming request job service : null
+2020-10-01 12:34:47 ERROR Invalid request
+2020-10-01 12:39:45 DEBUG Incoming request job service id method : 1
+2020-10-01 12:39:45 ERROR Record not found
+2020-10-01 12:39:45 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 12:39:45 DEBUG Incoming request job service : null
+2020-10-01 12:39:45 ERROR Invalid request
+2020-10-01 12:40:47 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 12:40:47 DEBUG Incoming request job service : null
+2020-10-01 12:40:47 ERROR Invalid request
+2020-10-01 12:41:06 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 12:41:06 DEBUG Incoming request job service : null
+2020-10-01 12:41:06 ERROR Invalid request
+2020-10-01 12:41:33 DEBUG Incoming request job service id method : 1
+2020-10-01 12:41:33 ERROR Record not found
+2020-10-01 12:41:33 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 12:41:33 DEBUG Incoming request job service : null
+2020-10-01 12:41:33 ERROR Invalid request
+2020-10-01 12:42:08 DEBUG Incoming request job service id method : 0
+2020-10-01 12:42:08 ERROR Invalid request
+2020-10-01 12:42:08 DEBUG Incoming request job service id method : 1
+2020-10-01 12:42:08 ERROR Record not found
+2020-10-01 12:42:08 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 12:42:09 DEBUG Incoming request job service : null
+2020-10-01 12:42:09 ERROR Invalid request
+2020-10-01 12:44:03 DEBUG Incoming request job service id method : 0
+2020-10-01 12:44:03 ERROR Invalid request
+2020-10-01 12:44:03 DEBUG Incoming request job service id method : 0
+2020-10-01 12:44:03 ERROR Invalid request
+2020-10-01 12:44:03 DEBUG Incoming request job service id method : 1
+2020-10-01 12:44:03 ERROR Record not found
+2020-10-01 12:44:03 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 12:44:03 DEBUG Incoming request job service : null
+2020-10-01 12:44:03 ERROR Invalid request
+2020-10-01 12:45:21 DEBUG Incoming request job service id method : 0
+2020-10-01 12:45:21 ERROR Invalid request
+2020-10-01 12:46:27 DEBUG Incoming request job service id method : 0
+2020-10-01 12:46:27 ERROR Invalid request
+2020-10-01 12:47:30 DEBUG Incoming request job service id method : 0
+2020-10-01 12:47:30 ERROR Invalid request
+2020-10-01 12:48:13 DEBUG Incoming request job service id method : 0
+2020-10-01 12:48:13 ERROR Invalid request
+2020-10-01 12:49:06 DEBUG Incoming request job service id method : 0
+2020-10-01 12:49:06 ERROR Invalid request
+2020-10-01 12:51:24 DEBUG Incoming request job service id method : 1
+2020-10-01 12:53:50 ERROR Record not found
+2020-10-01 12:56:19 DEBUG Incoming request job service id method : 0
+2020-10-01 12:56:19 ERROR Invalid request
+2020-10-01 12:57:59 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 12:59:49 DEBUG Incoming request job service id method : 1
+2020-10-01 13:00:25 DEBUG Incoming request job service id method : 1
+2020-10-01 13:01:34 DEBUG Incoming request job service id method : 0
+2020-10-01 13:01:34 ERROR Invalid request
+2020-10-01 13:03:16 DEBUG Incoming request job service id method : 1
+2020-10-01 13:03:53 DEBUG Incoming request job service id method : 1
+2020-10-01 13:04:17 DEBUG Incoming request job service id method : 0
+2020-10-01 13:04:17 ERROR Invalid request
+2020-10-01 13:04:42 DEBUG Incoming request job service id method : 1
+2020-10-01 14:07:38 DEBUG Incoming request jobid method : 1
+2020-10-01 14:07:38 DEBUG Incoming request job service id method : 1
+2020-10-01 14:09:15 DEBUG Incoming request jobid method : 1
+2020-10-01 14:09:15 DEBUG Incoming request job service id method : 1
+2020-10-01 14:10:56 DEBUG Incoming request job service id method : 0
+2020-10-01 14:10:56 ERROR Invalid request
+2020-10-01 14:10:56 DEBUG Incoming request job service id method : 1
+2020-10-01 14:10:56 DEBUG Incoming request job service id method : 1
+2020-10-01 14:10:56 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 14:10:56 DEBUG Incoming request job service : null
+2020-10-01 14:10:56 ERROR Invalid request
+2020-10-01 14:11:33 DEBUG Incoming request job service id method : 0
+2020-10-01 14:11:33 ERROR Invalid request
+2020-10-01 14:11:33 DEBUG Incoming request job service id method : 1
+2020-10-01 14:11:33 DEBUG Incoming request job service id method : 1
+2020-10-01 14:11:33 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 14:11:33 DEBUG Incoming request job service : null
+2020-10-01 14:11:33 ERROR Invalid request
+2020-10-01 14:12:17 DEBUG Incoming request job service id method : 0
+2020-10-01 14:12:17 ERROR Invalid request
+2020-10-01 14:12:17 DEBUG Incoming request job service id method : 1
+2020-10-01 14:12:17 DEBUG Incoming request job service id method : 1
+2020-10-01 14:12:17 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 14:12:17 DEBUG Incoming request job service : null
+2020-10-01 14:12:17 ERROR Invalid request
+2020-10-01 14:13:17 DEBUG Incoming request job service id method : 1
+2020-10-01 14:13:17 DEBUG Incoming request job service id method : 0
+2020-10-01 14:13:17 ERROR Invalid request
+2020-10-01 14:13:17 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 14:13:17 DEBUG Incoming request job service : null
+2020-10-01 14:13:17 ERROR Invalid request
+2020-10-01 14:14:17 DEBUG Incoming request jobid method : 1
+2020-10-01 14:14:17 DEBUG Incoming request job service id method : 1
+2020-10-01 14:14:22 DEBUG Incoming request jobid method : 2
+2020-10-01 14:14:22 DEBUG Incoming request job service id method : 2
+2020-10-01 14:14:34 DEBUG Incoming request jobid method : 22
+2020-10-01 14:14:34 DEBUG Incoming request job service id method : 22
+2020-10-01 14:15:43 DEBUG Incoming request jobid method : 22
+2020-10-01 14:15:43 DEBUG Incoming request job service id method : 22
+2020-10-01 14:15:43 ERROR Record not found
+2020-10-01 14:21:03 DEBUG Incoming request jobid method : 5
+2020-10-01 14:21:03 DEBUG Incoming request job service id method : 5
+2020-10-01 14:21:21 DEBUG Incoming request jobid method : 14
+2020-10-01 14:21:21 DEBUG Incoming request job service id method : 14
+2020-10-01 14:21:21 ERROR Record not found
+2020-10-01 14:22:44 DEBUG Incoming request job service id method : 0
+2020-10-01 14:22:44 ERROR Invalid request
+2020-10-01 14:23:39 DEBUG Incoming request job service id method : 1
+2020-10-01 14:26:06 DEBUG Incoming request job service id method : 1
+2020-10-01 14:26:06 ERROR Record not found
+2020-10-01 14:33:50 DEBUG Incoming request job service id method : 1
+2020-10-01 14:33:50 ERROR Record not found
+2020-10-01 14:33:50 DEBUG Incoming request job service id method : 0
+2020-10-01 14:33:50 ERROR Invalid request
+2020-10-01 14:33:50 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 14:33:50 DEBUG Incoming request job service : null
+2020-10-01 14:33:50 ERROR Invalid request
+2020-10-01 14:37:07 DEBUG Incoming request job service id method : 1
+2020-10-01 14:38:02 ERROR Record not found
+2020-10-01 14:42:57 DEBUG Incoming request job service id method : 1
+2020-10-01 14:43:23 ERROR Record not found
+2020-10-01 14:48:48 DEBUG Incoming request job service id method : 1
+2020-10-01 14:48:48 ERROR Record not found
+2020-10-01 14:50:54 DEBUG Incoming request job service id method : 1
+2020-10-01 14:55:06 DEBUG Incoming request job service id method : 1
+2020-10-01 14:55:06 ERROR Record not found
+2020-10-01 14:55:52 DEBUG Incoming request job service id method : 1
+2020-10-01 14:55:52 ERROR Record not found
+2020-10-01 14:55:52 DEBUG Incoming request job service id method : 0
+2020-10-01 14:55:52 ERROR Invalid request
+2020-10-01 14:55:52 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 14:55:52 DEBUG Incoming request job service : null
+2020-10-01 14:55:52 ERROR Invalid request
+2020-10-01 14:57:59 DEBUG Incoming request job service id method : 1
+2020-10-01 15:16:49 DEBUG Incoming request job service id method : 1
+2020-10-01 15:16:49 DEBUG Incoming request job service id method : 0
+2020-10-01 15:16:49 ERROR Invalid request
+2020-10-01 15:16:49 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 15:16:49 DEBUG Incoming request job service : null
+2020-10-01 15:16:49 ERROR Invalid request
+2020-10-01 15:17:21 DEBUG Incoming request job service id method : 1
+2020-10-01 15:17:21 ERROR Record not found
+2020-10-01 15:17:21 DEBUG Incoming request job service id method : 0
+2020-10-01 15:17:21 ERROR Invalid request
+2020-10-01 15:17:21 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 15:17:21 DEBUG Incoming request job service : null
+2020-10-01 15:17:21 ERROR Invalid request
+2020-10-01 16:08:33 DEBUG Incoming request job service id method : 1
+2020-10-01 16:08:33 ERROR Record not found
+2020-10-01 16:09:55 DEBUG Incoming request job service id method : 1
+2020-10-01 17:01:00 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 17:01:24 DEBUG Incoming request job service : null
+2020-10-01 17:01:24 ERROR Invalid request
+2020-10-01 18:25:58 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-01 18:39:15 DEBUG Incoming request job service : null
+2020-10-01 18:39:15 ERROR Invalid request
+2020-10-01 18:41:01 DEBUG Incoming request job service : null
+2020-10-01 18:41:01 ERROR Invalid request
+2020-10-02 11:15:27 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-02 11:15:58 DEBUG Incoming request job service : null
+2020-10-02 11:15:58 ERROR Invalid request
+2020-10-02 11:18:31 DEBUG Incoming request job service id method : 0
+2020-10-02 11:18:31 ERROR Invalid request
+2020-10-02 11:18:31 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-02 11:19:52 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=null, jobDescription=null, country=null, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-02 11:19:52 ERROR Fields should not be null
+2020-10-02 11:22:29 DEBUG Incoming request job service id method : 0
+2020-10-02 11:22:29 ERROR Invalid request
+2020-10-02 11:22:29 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-02 11:23:04 DEBUG Incoming request job service id method : 0
+2020-10-02 11:23:04 ERROR Invalid request
+2020-10-02 11:24:15 DEBUG Incoming request job service id method : 1
+2020-10-02 11:24:15 ERROR Record not found
+2020-10-02 11:27:12 DEBUG Incoming request job service id method : 1
+2020-10-02 11:27:57 ERROR Record not found
+2020-10-02 11:34:03 DEBUG Incoming request job service id method : 1
+2020-10-02 11:34:03 ERROR Record not found
+2020-10-02 11:34:58 DEBUG Incoming request job service id method : 1
+2020-10-02 11:34:58 ERROR Record not found
+2020-10-02 11:42:10 DEBUG Incoming request job service id method : 1
+2020-10-02 11:42:10 ERROR Record not found
+2020-10-02 11:45:16 DEBUG Incoming request job service id method : 1
+2020-10-02 11:47:01 DEBUG Incoming request job service id method : 1
+2020-10-02 11:47:01 ERROR Record not found
+2020-10-02 11:48:29 DEBUG Incoming request job service id method : 0
+2020-10-02 11:48:29 ERROR Invalid request
+2020-10-02 12:19:41 DEBUG Incoming request job service id method : 1
+2020-10-02 12:19:41 ERROR Record not found
+2020-10-02 12:19:41 DEBUG Incoming request job service id method : 0
+2020-10-02 12:19:41 ERROR Invalid request
+2020-10-02 12:19:41 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-02 12:20:07 DEBUG Incoming request job service id method : 1
+2020-10-02 12:20:08 DEBUG Incoming request job service id method : 0
+2020-10-02 12:20:08 ERROR Invalid request
+2020-10-02 12:20:08 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-02 12:21:49 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-02 12:23:03 DEBUG Incoming request job service id method : 1
+2020-10-02 12:23:03 ERROR Record not found
+2020-10-02 12:23:26 DEBUG Incoming request job service id method : 1
+2020-10-02 12:23:26 ERROR Record not found
+2020-10-02 12:23:26 DEBUG Incoming request job service id method : 0
+2020-10-02 12:23:26 ERROR Invalid request
+2020-10-02 12:23:26 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-02 12:33:30 DEBUG Incoming request job service id method : 1
+2020-10-02 12:33:30 ERROR Record not found
+2020-10-02 12:35:52 DEBUG Incoming request job service id method : 1
+2020-10-02 12:35:52 ERROR Record not found
+2020-10-02 12:36:08 DEBUG Incoming request job service id method : 1
+2020-10-02 12:36:08 ERROR Record not found
+2020-10-02 12:36:48 DEBUG Incoming request job service id method : 1
+2020-10-02 12:36:48 ERROR Record not found
+2020-10-02 12:37:02 DEBUG Incoming request job service id method : 1
+2020-10-02 12:37:02 ERROR Record not found
+2020-10-02 12:38:54 DEBUG Incoming request job service id method : 1
+2020-10-02 12:39:52 ERROR Record not found
+2020-10-02 12:40:50 DEBUG Incoming request job service id method : 1
+2020-10-02 12:40:50 ERROR Record not found
+2020-10-02 12:44:46 DEBUG Incoming request job service id method : 1
+2020-10-02 12:44:46 ERROR Record not found
+2020-10-02 12:45:22 DEBUG Incoming request job service id method : 1
+2020-10-02 12:45:22 ERROR Record not found
+2020-10-02 12:49:36 DEBUG Incoming request job service id method : 1
+2020-10-02 12:49:36 ERROR Record not found
+2020-10-02 12:50:56 DEBUG Incoming request job service id method : 1
+2020-10-02 13:01:03 DEBUG Incoming request job service id method : 1
+2020-10-02 13:01:03 ERROR Record not found
+2020-10-02 13:01:55 DEBUG Incoming request job service id method : 1
+2020-10-02 13:01:55 ERROR Record not found
+2020-10-02 13:04:26 DEBUG Incoming request job service id method : 1
+2020-10-02 13:04:26 ERROR Record not found
+2020-10-02 13:06:29 DEBUG Incoming request job service id method : 1
+2020-10-02 13:06:29 ERROR Record not found
+2020-10-02 13:10:45 DEBUG Incoming request job service id method : 1
+2020-10-02 13:10:45 ERROR Record not found
+2020-10-02 13:11:39 DEBUG Incoming request job service id method : 1
+2020-10-02 13:11:39 ERROR Record not found
+2020-10-02 14:41:13 DEBUG Incoming request job service id method : 1
+2020-10-02 14:41:13 ERROR Record not found
+2020-10-02 14:41:13 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-02 15:00:32 DEBUG Incoming request job service id method : 1
+2020-10-02 15:00:32 ERROR Record not found
+2020-10-02 15:00:59 DEBUG Incoming request job service id method : 1
+2020-10-02 15:00:59 ERROR Record not found
+2020-10-02 15:01:19 DEBUG Incoming request job service id method : 1
+2020-10-02 15:01:19 ERROR Record not found
+2020-10-02 15:01:19 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-02 15:03:27 DEBUG Incoming request job service id method : 1
+2020-10-02 15:03:27 ERROR Record not found
+2020-10-02 15:03:27 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-02 16:08:29 DEBUG Incoming request job service type method : part-time
+2020-10-02 16:08:29 ERROR Record not found
+2020-10-02 16:11:32 DEBUG Incoming request job service id method : 1
+2020-10-02 16:11:32 ERROR Record not found
+2020-10-02 16:11:32 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-02 16:11:32 DEBUG Incoming request job service type method : null
+2020-10-02 16:11:32 ERROR Invalid request
+2020-10-02 16:12:36 DEBUG Incoming request job service id method : 1
+2020-10-02 16:12:36 ERROR Record not found
+2020-10-02 16:12:36 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-02 16:12:36 DEBUG Incoming request job service type method : null
+2020-10-02 16:12:36 ERROR Invalid request
+2020-10-02 16:20:59 DEBUG Incoming request job service id method : 1
+2020-10-02 16:20:59 ERROR Record not found
+2020-10-02 16:20:59 DEBUG Incoming request job service experience method : 0
+2020-10-02 16:20:59 ERROR Invalid request
+2020-10-02 16:20:59 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-02 16:20:59 DEBUG Incoming request job service type method : null
+2020-10-02 16:20:59 ERROR Invalid request
+2020-10-02 16:21:53 DEBUG Incoming request job service id method : 1
+2020-10-02 16:21:53 ERROR Record not found
+2020-10-02 17:04:44 DEBUG Incoming request job service language method : null
+2020-10-02 17:04:44 ERROR Invalid request
+2020-10-02 17:04:44 DEBUG Incoming request job service payrate method : 00
+2020-10-02 17:04:44 ERROR Record not found
+2020-10-02 17:04:44 DEBUG Incoming request job service availability method : null
+2020-10-02 17:04:44 ERROR Invalid request
+2020-10-02 17:04:44 DEBUG Incoming request job service skills method : null
+2020-10-02 17:04:44 ERROR Invalid request
+2020-10-02 17:04:44 DEBUG Incoming request job service country method : null
+2020-10-02 17:04:44 ERROR Invalid request
+2020-10-02 17:04:44 DEBUG Incoming request job service id method : 1
+2020-10-02 17:04:44 ERROR Record not found
+2020-10-02 17:04:44 DEBUG Incoming request job service experience method : 0
+2020-10-02 17:04:44 ERROR Invalid request
+2020-10-02 17:04:44 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-02 17:04:44 DEBUG Incoming request job service type method : null
+2020-10-02 17:04:44 ERROR Invalid request
+2020-10-05 12:53:53 DEBUG Incoming request job service language method : null
+2020-10-05 12:53:53 ERROR Invalid request
+2020-10-05 12:53:53 DEBUG Incoming request job service payrate method : 00
+2020-10-05 12:53:53 ERROR Record not found
+2020-10-05 12:53:53 DEBUG Incoming request job service availability method : null
+2020-10-05 12:53:53 ERROR Invalid request
+2020-10-05 12:53:53 DEBUG Incoming request job service skills method : null
+2020-10-05 12:53:53 ERROR Invalid request
+2020-10-05 12:53:53 DEBUG Incoming request job service country method : null
+2020-10-05 12:53:53 ERROR Invalid request
+2020-10-05 12:53:53 DEBUG Incoming request job service id method : 1
+2020-10-05 12:53:53 ERROR Record not found
+2020-10-05 12:53:53 DEBUG Incoming request job service experience method : 0
+2020-10-05 12:53:53 ERROR Invalid request
+2020-10-05 12:53:53 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-05 12:53:53 DEBUG Incoming request job service type method : null
+2020-10-05 12:53:53 ERROR Invalid request
+2020-10-05 12:54:26 DEBUG Incoming request job service id method : 1
+2020-10-05 12:54:26 ERROR Record not found
+2020-10-05 12:54:58 DEBUG Incoming request job service id method : 1
+2020-10-05 12:54:58 ERROR Record not found
+2020-10-05 12:55:45 DEBUG Incoming request job service id method : 0
+2020-10-05 12:55:45 ERROR Invalid request
+2020-10-05 12:56:33 DEBUG Incoming request job service language method : null
+2020-10-05 12:56:33 ERROR Invalid request
+2020-10-05 12:56:33 DEBUG Incoming request job service payrate method : 00
+2020-10-05 12:56:33 ERROR Record not found
+2020-10-05 12:56:33 DEBUG Incoming request job service availability method : null
+2020-10-05 12:56:33 ERROR Invalid request
+2020-10-05 12:56:33 DEBUG Incoming request job service skills method : null
+2020-10-05 12:56:33 ERROR Invalid request
+2020-10-05 12:56:33 DEBUG Incoming request job service country method : null
+2020-10-05 12:56:33 ERROR Invalid request
+2020-10-05 12:56:33 DEBUG Incoming request job service experience method : 0
+2020-10-05 12:56:33 ERROR Invalid request
+2020-10-05 12:56:33 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-05 12:56:33 DEBUG Incoming request job service type method : null
+2020-10-05 12:56:33 ERROR Invalid request
+2020-10-05 12:57:46 DEBUG Incoming request job service language method : null
+2020-10-05 12:57:46 ERROR Invalid request
+2020-10-05 12:57:46 DEBUG Incoming request job service payrate method : 00
+2020-10-05 12:57:46 ERROR Record not found
+2020-10-05 12:57:46 DEBUG Incoming request job service availability method : null
+2020-10-05 12:57:46 ERROR Invalid request
+2020-10-05 12:57:46 DEBUG Incoming request job service skills method : null
+2020-10-05 12:57:46 ERROR Invalid request
+2020-10-05 12:57:46 DEBUG Incoming request job service country method : null
+2020-10-05 12:57:46 ERROR Invalid request
+2020-10-05 12:57:46 DEBUG Incoming request job service experience method : 0
+2020-10-05 12:57:46 ERROR Invalid request
+2020-10-05 12:57:46 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-05 12:57:46 DEBUG Incoming request job service type method : null
+2020-10-05 12:57:46 ERROR Invalid request
+2020-10-05 12:58:39 DEBUG Incoming request job service language method : null
+2020-10-05 12:58:39 ERROR Invalid request
+2020-10-05 12:58:39 DEBUG Incoming request job service payrate method : 00
+2020-10-05 12:58:39 ERROR Record not found
+2020-10-05 12:58:39 DEBUG Incoming request job service availability method : null
+2020-10-05 12:58:39 ERROR Invalid request
+2020-10-05 12:58:39 DEBUG Incoming request job service skills method : null
+2020-10-05 12:58:39 ERROR Invalid request
+2020-10-05 12:58:39 DEBUG Incoming request job service country method : null
+2020-10-05 12:58:39 ERROR Invalid request
+2020-10-05 12:58:39 DEBUG Incoming request job service experience method : 0
+2020-10-05 12:58:39 ERROR Invalid request
+2020-10-05 12:58:39 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-05 12:58:39 DEBUG Incoming request job service type method : null
+2020-10-05 12:58:39 ERROR Invalid request
+2020-10-05 12:59:11 DEBUG Incoming request job service language method : null
+2020-10-05 12:59:11 ERROR Invalid request
+2020-10-05 12:59:11 DEBUG Incoming request job service payrate method : 00
+2020-10-05 12:59:11 ERROR Record not found
+2020-10-05 12:59:11 DEBUG Incoming request job service availability method : null
+2020-10-05 12:59:11 ERROR Invalid request
+2020-10-05 12:59:11 DEBUG Incoming request job service skills method : null
+2020-10-05 12:59:11 ERROR Invalid request
+2020-10-05 12:59:11 DEBUG Incoming request job service country method : null
+2020-10-05 12:59:11 ERROR Invalid request
+2020-10-05 12:59:11 DEBUG Incoming request job service experience method : 0
+2020-10-05 12:59:11 ERROR Invalid request
+2020-10-05 12:59:11 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-05 12:59:11 DEBUG Incoming request job service type method : null
+2020-10-05 12:59:11 ERROR Invalid request
+2020-10-05 12:59:40 DEBUG Incoming request job service language method : null
+2020-10-05 12:59:40 ERROR Invalid request
+2020-10-05 12:59:40 DEBUG Incoming request job service payrate method : 00
+2020-10-05 12:59:40 ERROR Record not found
+2020-10-05 12:59:40 DEBUG Incoming request job service availability method : null
+2020-10-05 12:59:40 ERROR Invalid request
+2020-10-05 12:59:40 DEBUG Incoming request job service skills method : null
+2020-10-05 12:59:40 ERROR Invalid request
+2020-10-05 12:59:40 DEBUG Incoming request job service country method : null
+2020-10-05 12:59:40 ERROR Invalid request
+2020-10-05 12:59:40 DEBUG Incoming request job service experience method : 0
+2020-10-05 12:59:40 ERROR Invalid request
+2020-10-05 12:59:40 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-05 12:59:40 DEBUG Incoming request job service type method : null
+2020-10-05 12:59:40 ERROR Invalid request
+2020-10-05 13:00:56 DEBUG Incoming request job service language method : null
+2020-10-05 13:00:56 ERROR Invalid request
+2020-10-05 13:00:56 DEBUG Incoming request job service payrate method : 00
+2020-10-05 13:00:56 ERROR Record not found
+2020-10-05 13:00:56 DEBUG Incoming request job service availability method : null
+2020-10-05 13:00:56 ERROR Invalid request
+2020-10-05 13:00:56 DEBUG Incoming request job service skills method : null
+2020-10-05 13:00:56 ERROR Invalid request
+2020-10-05 13:00:56 DEBUG Incoming request job service country method : null
+2020-10-05 13:00:56 ERROR Invalid request
+2020-10-05 13:00:56 DEBUG Incoming request job service experience method : 0
+2020-10-05 13:00:56 ERROR Invalid request
+2020-10-05 13:00:56 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-05 13:00:56 DEBUG Incoming request job service type method : null
+2020-10-05 13:00:56 ERROR Invalid request
+2020-10-05 14:16:51 DEBUG Incoming request job service language method : null
+2020-10-05 14:16:51 ERROR Invalid request
+2020-10-05 14:16:51 DEBUG Incoming request job service payrate method : 00
+2020-10-05 14:16:51 ERROR Record not found
+2020-10-05 14:16:51 DEBUG Incoming request job service availability method : null
+2020-10-05 14:16:51 ERROR Invalid request
+2020-10-05 14:16:51 DEBUG Incoming request job service skills method : null
+2020-10-05 14:16:51 ERROR Invalid request
+2020-10-05 14:16:51 DEBUG Incoming request job service country method : null
+2020-10-05 14:16:51 ERROR Invalid request
+2020-10-05 14:16:51 DEBUG Incoming request job service experience method : 0
+2020-10-05 14:16:51 ERROR Invalid request
+2020-10-05 14:16:51 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-05 14:16:51 DEBUG Incoming request job service type method : null
+2020-10-05 14:16:51 ERROR Invalid request
+2020-10-05 14:18:07 DEBUG Incoming request job service id method : 0
+2020-10-05 14:18:07 ERROR Invalid request
+2020-10-05 14:18:50 DEBUG Incoming request job service id method : 0
+2020-10-05 14:18:50 ERROR Invalid request
+2020-10-05 14:20:50 DEBUG Incoming request job service id method : 1
+2020-10-05 14:20:50 ERROR Record not found
+2020-10-05 14:55:14 DEBUG Incoming request job service id method : 0
+2020-10-05 14:55:14 ERROR Invalid request
+2020-10-05 14:55:27 DEBUG Incoming request job service id method : 1
+2020-10-05 14:55:27 ERROR Record not found
+2020-10-05 15:12:46 DEBUG Incoming request jobid method : 14
+2020-10-05 15:12:46 DEBUG Incoming request job service id method : 14
+2020-10-05 15:14:21 DEBUG Incoming request jobid method : 0
+2020-10-05 15:14:21 DEBUG Incoming request job service id method : 0
+2020-10-05 15:14:21 ERROR Invalid request
+2020-10-05 15:15:21 DEBUG Incoming request jobid method : 14
+2020-10-05 15:15:21 DEBUG Incoming request job service id method : 14
+2020-10-05 15:15:21 ERROR Record not found
+2020-10-05 15:15:36 DEBUG Incoming request jobid method : 13
+2020-10-05 15:15:36 DEBUG Incoming request job service id method : 13
+2020-10-05 15:16:58 DEBUG Incoming request jobid method : 13
+2020-10-05 15:16:58 DEBUG Incoming request job service id method : 13
+2020-10-05 15:19:52 DEBUG Incoming request jobid method : 13
+2020-10-05 15:19:52 DEBUG Incoming request job service id method : 13
+2020-10-05 15:19:56 DEBUG Incoming request jobid method : 13
+2020-10-05 15:19:56 DEBUG Incoming request job service id method : 13
+2020-10-05 15:24:02 DEBUG Incoming request job service id method : 1
+2020-10-05 15:24:03 ERROR Record not found
+2020-10-05 15:30:41 DEBUG Incoming request job service id method : 1
+2020-10-05 15:32:06 DEBUG Incoming request job service id method : 1
+2020-10-05 15:32:06 ERROR Record not found
+2020-10-05 15:33:03 DEBUG Incoming request job service id method : 1
+2020-10-05 15:33:03 ERROR Record not found
+2020-10-05 15:35:14 DEBUG Incoming request job service language method : null
+2020-10-05 15:35:14 ERROR Invalid request
+2020-10-05 15:35:29 DEBUG Incoming request job service id method : null
+2020-10-05 15:35:38 ERROR Invalid request
+2020-10-05 15:38:04 DEBUG Incoming request job service id method : 1
+2020-10-05 15:38:32 ERROR Record not found
+2020-10-05 15:41:21 DEBUG Incoming request job service id method : 1
+2020-10-05 15:41:21 ERROR Record not found
+2020-10-05 15:42:29 DEBUG Incoming request job service language method : null
+2020-10-05 15:42:29 ERROR Invalid request
+2020-10-05 15:42:36 DEBUG Incoming request job service id method : null
+2020-10-05 15:42:42 ERROR Invalid request
+2020-10-05 15:43:55 DEBUG Incoming request job service id method : 1
+2020-10-05 15:44:49 DEBUG Incoming request job service id method : 1
+2020-10-05 15:44:49 ERROR Record not found
+2020-10-05 15:46:34 DEBUG Incoming request job service id method : 1
+2020-10-05 15:46:34 ERROR Record not found
+2020-10-05 15:47:25 DEBUG Incoming request job service id method : 1
+2020-10-05 15:47:25 ERROR Record not found
+2020-10-05 15:49:51 DEBUG Incoming request job service id method : 1
+2020-10-05 15:49:51 ERROR Record not found
+2020-10-05 15:50:18 DEBUG Incoming request job service id method : 1
+2020-10-05 15:50:18 ERROR Record not found
+2020-10-05 16:03:34 DEBUG Incoming request job service language method : null
+2020-10-05 16:03:34 ERROR Invalid request
+2020-10-05 16:03:34 DEBUG Incoming request job service id method : null
+2020-10-05 16:03:34 ERROR Invalid request
+2020-10-05 16:03:34 DEBUG Incoming request job service payrate method : 00
+2020-10-05 16:03:34 ERROR Record not found
+2020-10-05 16:03:34 DEBUG Incoming request job service availability method : null
+2020-10-05 16:03:34 ERROR Invalid request
+2020-10-05 16:03:34 DEBUG Incoming request job service skills method : null
+2020-10-05 16:03:34 ERROR Invalid request
+2020-10-05 16:03:34 DEBUG Incoming request job service country method : null
+2020-10-05 16:03:34 ERROR Invalid request
+2020-10-05 16:03:34 DEBUG Incoming request job service id method : 1
+2020-10-05 16:03:34 ERROR Record not found
+2020-10-05 16:03:34 DEBUG Incoming request job service id method : 0
+2020-10-05 16:03:34 ERROR Invalid request
+2020-10-05 16:03:34 DEBUG Incoming request job service experience method : 0
+2020-10-05 16:03:34 ERROR Invalid request
+2020-10-05 16:03:34 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-05 16:03:34 DEBUG Incoming request job service type method : null
+2020-10-05 16:03:34 ERROR Invalid request
+2020-10-05 16:04:56 DEBUG Incoming request job service id method : 1
+2020-10-05 16:04:56 ERROR Record not found
+2020-10-05 16:06:03 DEBUG Incoming request job service id method : 1
+2020-10-05 16:52:30 DEBUG Incoming request job service id method : 0
+2020-10-05 16:52:30 ERROR Invalid request
+2020-10-05 16:52:44 DEBUG Incoming request job service id method : 1
+2020-10-05 16:52:44 ERROR Record not found
+2020-10-05 16:59:19 DEBUG Incoming request job service id method : 1
+2020-10-05 16:59:19 ERROR Record not found
+2020-10-05 17:02:11 DEBUG Incoming request job service id method : 1
+2020-10-05 17:05:51 DEBUG Incoming request job service id method : 1
+2020-10-05 17:06:47 DEBUG Incoming request job service id method : 4
+2020-10-05 17:12:24 DEBUG Incoming request job service id method : 1
+2020-10-05 17:12:28 ERROR Record not found
+2020-10-05 17:18:04 DEBUG Incoming request job service id method : 1
+2020-10-05 17:18:04 ERROR Record not found
+2020-10-05 17:20:03 DEBUG Incoming request job service id method : 1
+2020-10-05 17:20:03 ERROR Record not found
+2020-10-05 17:21:26 DEBUG Incoming request job service id method : 1
+2020-10-05 17:21:26 ERROR Record not found
+2020-10-05 17:21:47 DEBUG Incoming request job service id method : 1
+2020-10-05 17:21:47 ERROR Record not found
+2020-10-05 17:23:25 DEBUG Incoming request job service id method : 1
+2020-10-05 17:23:25 ERROR Record not found
+2020-10-05 17:24:20 DEBUG Incoming request job service id method : 1
+2020-10-05 17:26:24 DEBUG Incoming request job service language method : null
+2020-10-05 17:26:24 ERROR Invalid request
+2020-10-05 17:26:24 DEBUG Incoming request job service id method : null
+2020-10-05 17:26:24 ERROR Invalid request
+2020-10-05 17:26:24 DEBUG Incoming request job service payrate method : 00
+2020-10-05 17:26:24 ERROR Record not found
+2020-10-05 17:26:24 DEBUG Incoming request job service availability method : null
+2020-10-05 17:26:24 ERROR Invalid request
+2020-10-05 17:26:24 DEBUG Incoming request job service skills method : null
+2020-10-05 17:26:24 ERROR Invalid request
+2020-10-05 17:26:24 DEBUG Incoming request job service country method : null
+2020-10-05 17:26:24 ERROR Invalid request
+2020-10-05 17:26:24 DEBUG Incoming request job service id method : 1
+2020-10-05 17:26:25 DEBUG Incoming request job service id method : 0
+2020-10-05 17:26:25 ERROR Invalid request
+2020-10-05 17:26:25 DEBUG Incoming request job service experience method : 0
+2020-10-05 17:26:25 ERROR Invalid request
+2020-10-05 17:26:25 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-05 17:26:25 DEBUG Incoming request job service type method : null
+2020-10-05 17:26:25 ERROR Invalid request
+2020-10-05 17:27:14 DEBUG Incoming request job service language method : null
+2020-10-05 17:27:14 ERROR Invalid request
+2020-10-05 17:27:14 DEBUG Incoming request job service id method : null
+2020-10-05 17:27:14 ERROR Invalid request
+2020-10-05 17:27:14 DEBUG Incoming request job service payrate method : 00
+2020-10-05 17:27:14 ERROR Record not found
+2020-10-05 17:27:14 DEBUG Incoming request job service availability method : null
+2020-10-05 17:27:14 ERROR Invalid request
+2020-10-05 17:27:14 DEBUG Incoming request job service skills method : null
+2020-10-05 17:27:14 ERROR Invalid request
+2020-10-05 17:27:14 DEBUG Incoming request job service country method : null
+2020-10-05 17:27:14 ERROR Invalid request
+2020-10-05 17:27:14 DEBUG Incoming request job service id method : 1
+2020-10-05 17:27:14 DEBUG Incoming request job service id method : 0
+2020-10-05 17:27:14 ERROR Invalid request
+2020-10-05 17:27:14 DEBUG Incoming request job service experience method : 0
+2020-10-05 17:27:14 ERROR Invalid request
+2020-10-05 17:27:14 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-05 17:27:14 DEBUG Incoming request job service type method : null
+2020-10-05 17:27:14 ERROR Invalid request
+2020-10-05 17:28:28 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-05 18:02:33 DEBUG Incoming request job service type method : part-time
+2020-10-05 18:02:50 DEBUG Incoming request job service type method : null
+2020-10-05 18:02:50 ERROR Invalid request
+2020-10-05 18:03:06 DEBUG Incoming request job service type method : part-time
+2020-10-05 18:03:06 DEBUG Incoming request job service language method : null
+2020-10-05 18:03:06 ERROR Invalid request
+2020-10-05 18:03:06 DEBUG Incoming request job service id method : null
+2020-10-05 18:03:06 ERROR Invalid request
+2020-10-05 18:03:06 DEBUG Incoming request job service payrate method : 00
+2020-10-05 18:03:06 ERROR Record not found
+2020-10-05 18:03:06 DEBUG Incoming request job service availability method : null
+2020-10-05 18:03:06 ERROR Invalid request
+2020-10-05 18:03:06 DEBUG Incoming request job service skills method : null
+2020-10-05 18:03:06 ERROR Invalid request
+2020-10-05 18:03:06 DEBUG Incoming request job service country method : null
+2020-10-05 18:03:06 ERROR Invalid request
+2020-10-05 18:03:06 DEBUG Incoming request job service id method : 1
+2020-10-05 18:03:06 DEBUG Incoming request job service id method : 0
+2020-10-05 18:03:06 ERROR Invalid request
+2020-10-05 18:03:06 DEBUG Incoming request job service experience method : 0
+2020-10-05 18:03:06 ERROR Invalid request
+2020-10-05 18:03:06 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-05 18:03:06 DEBUG Incoming request job service type method : null
+2020-10-05 18:03:06 ERROR Invalid request
+2020-10-05 18:10:52 DEBUG Incoming request job service experience method : 5
+2020-10-05 18:11:02 DEBUG Incoming request job service experience method : 5
+2020-10-05 18:11:20 DEBUG Incoming request job service type method : part-time
+2020-10-05 18:11:20 DEBUG Incoming request job service language method : null
+2020-10-05 18:11:20 ERROR Invalid request
+2020-10-05 18:11:20 DEBUG Incoming request job service id method : null
+2020-10-05 18:11:20 ERROR Invalid request
+2020-10-05 18:11:20 DEBUG Incoming request job service payrate method : 00
+2020-10-05 18:11:20 ERROR Record not found
+2020-10-05 18:11:20 DEBUG Incoming request job service experience method : 5
+2020-10-05 18:11:20 DEBUG Incoming request job service availability method : null
+2020-10-05 18:11:20 ERROR Invalid request
+2020-10-05 18:11:20 DEBUG Incoming request job service skills method : null
+2020-10-05 18:11:20 ERROR Invalid request
+2020-10-05 18:11:20 DEBUG Incoming request job service country method : null
+2020-10-05 18:11:20 ERROR Invalid request
+2020-10-05 18:11:20 DEBUG Incoming request job service id method : 1
+2020-10-05 18:11:20 DEBUG Incoming request job service id method : 0
+2020-10-05 18:11:20 ERROR Invalid request
+2020-10-05 18:11:20 DEBUG Incoming request job service experience method : 0
+2020-10-05 18:11:20 ERROR Invalid request
+2020-10-05 18:11:20 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-05 18:11:20 DEBUG Incoming request job service type method : null
+2020-10-05 18:11:20 ERROR Invalid request
+2020-10-05 18:22:47 DEBUG Incoming request job service payrate method : 1020
+2020-10-05 18:22:47 DEBUG Incoming request job service type method : Development
+2020-10-05 18:22:47 DEBUG Incoming request job service language method : null
+2020-10-05 18:22:47 ERROR Invalid request
+2020-10-05 18:22:47 DEBUG Incoming request job service id method : null
+2020-10-05 18:22:47 ERROR Invalid request
+2020-10-05 18:22:47 DEBUG Incoming request job service payrate method : 00
+2020-10-05 18:22:47 ERROR Record not found
+2020-10-05 18:22:47 DEBUG Incoming request job service country method : IND
+2020-10-05 18:22:47 DEBUG Incoming request job service experience method : 5
+2020-10-05 18:22:47 DEBUG Incoming request job service availability method : null
+2020-10-05 18:22:47 ERROR Invalid request
+2020-10-05 18:22:47 DEBUG Incoming request job service skills method : null
+2020-10-05 18:22:47 ERROR Invalid request
+2020-10-05 18:22:47 DEBUG Incoming request job service country method : null
+2020-10-05 18:22:47 ERROR Invalid request
+2020-10-05 18:22:47 DEBUG Incoming request job service availability method : part-time
+2020-10-05 18:22:47 DEBUG Incoming request job service id method : 1
+2020-10-05 18:22:47 DEBUG Incoming request job service id method : 0
+2020-10-05 18:22:47 ERROR Invalid request
+2020-10-05 18:22:47 DEBUG Incoming request job service experience method : 0
+2020-10-05 18:22:47 ERROR Invalid request
+2020-10-05 18:22:47 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-05 18:22:47 DEBUG Incoming request job service type method : null
+2020-10-05 18:22:47 ERROR Invalid request
+2020-10-05 18:22:47 DEBUG Incoming request job service language method : English
+2020-10-05 18:22:47 DEBUG Incoming request job service skills method : java,python
+2020-10-06 09:46:01 DEBUG Incoming request job service payrate method : 1020
+2020-10-06 09:46:01 DEBUG Incoming request job service type method : Development
+2020-10-06 09:46:01 DEBUG Incoming request job service language method : null
+2020-10-06 09:46:01 ERROR Invalid request
+2020-10-06 09:46:01 DEBUG Incoming request job service id method : null
+2020-10-06 09:46:01 ERROR Invalid request
+2020-10-06 09:46:02 DEBUG Incoming request job service payrate method : 00
+2020-10-06 09:46:02 ERROR Record not found
+2020-10-06 09:46:02 DEBUG Incoming request job service country method : IND
+2020-10-06 09:46:02 DEBUG Incoming request job service experience method : 5
+2020-10-06 09:46:02 DEBUG Incoming request job service availability method : null
+2020-10-06 09:46:02 ERROR Invalid request
+2020-10-06 09:46:02 DEBUG Incoming request job service skills method : null
+2020-10-06 09:46:02 ERROR Invalid request
+2020-10-06 09:46:02 DEBUG Incoming request job service country method : null
+2020-10-06 09:46:02 ERROR Invalid request
+2020-10-06 09:46:02 DEBUG Incoming request job service availability method : part-time
+2020-10-06 09:46:02 DEBUG Incoming request job service id method : 1
+2020-10-06 09:46:02 DEBUG Incoming request job service id method : 0
+2020-10-06 09:46:02 ERROR Invalid request
+2020-10-06 09:46:02 DEBUG Incoming request job service experience method : 0
+2020-10-06 09:46:02 ERROR Invalid request
+2020-10-06 09:46:02 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 09:46:02 DEBUG Incoming request job service type method : null
+2020-10-06 09:46:02 ERROR Invalid request
+2020-10-06 09:46:02 DEBUG Incoming request job service language method : English
+2020-10-06 09:46:02 DEBUG Incoming request job service skills method : java,python
+2020-10-06 09:50:39 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=null, jobDescription=null, country=null, state=null, availability=null, replyRate=0, payRate=0, experience=0, skills=null, language=null, jobType=null, userInfo=UserInfo(id=0, username=null))
+2020-10-06 09:50:39 ERROR Fields should not be null
+2020-10-06 09:55:12 DEBUG Incoming request job service payrate method : 1020
+2020-10-06 09:55:12 DEBUG Incoming request job service type method : Development
+2020-10-06 09:55:12 DEBUG Incoming request job service language method : null
+2020-10-06 09:55:12 ERROR Invalid request
+2020-10-06 09:55:12 DEBUG Incoming request job service id method : null
+2020-10-06 09:55:12 ERROR Invalid request
+2020-10-06 09:55:12 DEBUG Incoming request job service payrate method : 00
+2020-10-06 09:55:12 ERROR Record not found
+2020-10-06 09:55:12 DEBUG Incoming request job service country method : IND
+2020-10-06 09:55:12 DEBUG Incoming request job service experience method : 5
+2020-10-06 09:55:12 DEBUG Incoming request job service availability method : null
+2020-10-06 09:55:12 ERROR Invalid request
+2020-10-06 09:55:12 DEBUG Incoming request job service skills method : null
+2020-10-06 09:55:12 ERROR Invalid request
+2020-10-06 09:55:12 DEBUG Incoming request job service country method : null
+2020-10-06 09:55:12 ERROR Invalid request
+2020-10-06 09:55:12 DEBUG Incoming request job service availability method : part-time
+2020-10-06 09:55:12 DEBUG Incoming request job service id method : 1
+2020-10-06 09:55:12 DEBUG Incoming request job service id method : 0
+2020-10-06 09:55:12 ERROR Invalid request
+2020-10-06 09:55:12 DEBUG Incoming request job service experience method : 0
+2020-10-06 09:55:12 ERROR Invalid request
+2020-10-06 09:55:12 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 09:55:12 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=null, jobDescription=null, country=null, state=null, availability=null, replyRate=0, payRate=0, experience=0, skills=null, language=null, jobType=null, userInfo=UserInfo(id=0, username=null))
+2020-10-06 09:55:12 ERROR Fields should not be null
+2020-10-06 09:55:12 DEBUG Incoming request job service type method : null
+2020-10-06 09:55:12 ERROR Invalid request
+2020-10-06 09:55:12 DEBUG Incoming request job service language method : English
+2020-10-06 09:55:12 DEBUG Incoming request job service skills method : java,python
+2020-10-06 11:30:30 DEBUG Incoming request job service id method : 1
+2020-10-06 11:32:29 DEBUG Incoming request job service id method : 1
+2020-10-06 11:35:59 DEBUG Incoming request job service id method : 1
+2020-10-06 11:36:26 DEBUG Incoming request job service id method : 0
+2020-10-06 11:36:26 ERROR Invalid request
+2020-10-06 11:37:47 DEBUG Incoming request job service id method : null
+2020-10-06 11:37:47 ERROR Invalid request
+2020-10-06 11:39:03 DEBUG Incoming request job service id method : null
+2020-10-06 11:39:03 ERROR Invalid request
+2020-10-06 11:40:35 DEBUG Incoming request job service id method : 1
+2020-10-06 11:40:35 ERROR Record not found
+2020-10-06 11:41:00 DEBUG Incoming request job service payrate method : 1020
+2020-10-06 11:41:00 DEBUG Incoming request job service type method : Development
+2020-10-06 11:41:00 DEBUG Incoming request job service language method : null
+2020-10-06 11:41:00 ERROR Invalid request
+2020-10-06 11:41:00 DEBUG Incoming request job service id method : null
+2020-10-06 11:41:00 ERROR Invalid request
+2020-10-06 11:41:00 DEBUG Incoming request job service payrate method : 00
+2020-10-06 11:41:00 ERROR Record not found
+2020-10-06 11:41:00 DEBUG Incoming request job service country method : IND
+2020-10-06 11:41:00 DEBUG Incoming request job service experience method : 5
+2020-10-06 11:41:00 DEBUG Incoming request job service availability method : null
+2020-10-06 11:41:00 ERROR Invalid request
+2020-10-06 11:41:00 DEBUG Incoming request job service id method : 1
+2020-10-06 11:41:00 ERROR Record not found
+2020-10-06 11:41:00 DEBUG Incoming request job service skills method : null
+2020-10-06 11:41:00 ERROR Invalid request
+2020-10-06 11:41:00 DEBUG Incoming request job service country method : null
+2020-10-06 11:41:00 ERROR Invalid request
+2020-10-06 11:41:00 DEBUG Incoming request job service availability method : part-time
+2020-10-06 11:41:00 DEBUG Incoming request job service id method : 1
+2020-10-06 11:41:00 DEBUG Incoming request job service id method : 0
+2020-10-06 11:41:00 ERROR Invalid request
+2020-10-06 11:41:00 DEBUG Incoming request job service experience method : 0
+2020-10-06 11:41:00 ERROR Invalid request
+2020-10-06 11:41:00 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 11:41:00 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=null, jobDescription=null, country=null, state=null, availability=null, replyRate=0, payRate=0, experience=0, skills=null, language=null, jobType=null, userInfo=UserInfo(id=0, username=null))
+2020-10-06 11:41:00 ERROR Fields should not be null
+2020-10-06 11:41:00 DEBUG Incoming request job service type method : null
+2020-10-06 11:41:00 ERROR Invalid request
+2020-10-06 11:41:00 DEBUG Incoming request job service language method : English
+2020-10-06 11:41:00 DEBUG Incoming request job service skills method : java,python
+2020-10-06 11:42:33 DEBUG Incoming request job service id method : 1
+2020-10-06 11:42:33 ERROR Record not found
+2020-10-06 11:43:03 DEBUG Incoming request job service payrate method : 1020
+2020-10-06 11:43:03 DEBUG Incoming request job service type method : Development
+2020-10-06 11:43:03 DEBUG Incoming request job service language method : null
+2020-10-06 11:43:03 ERROR Invalid request
+2020-10-06 11:43:03 DEBUG Incoming request job service id method : null
+2020-10-06 11:43:03 ERROR Invalid request
+2020-10-06 11:43:03 DEBUG Incoming request job service payrate method : 00
+2020-10-06 11:43:03 ERROR Record not found
+2020-10-06 11:43:03 DEBUG Incoming request job service country method : IND
+2020-10-06 11:43:03 DEBUG Incoming request job service experience method : 5
+2020-10-06 11:43:03 DEBUG Incoming request job service availability method : null
+2020-10-06 11:43:03 ERROR Invalid request
+2020-10-06 11:43:03 DEBUG Incoming request job service skills method : null
+2020-10-06 11:43:03 ERROR Invalid request
+2020-10-06 11:43:03 DEBUG Incoming request job service country method : null
+2020-10-06 11:43:03 ERROR Invalid request
+2020-10-06 11:43:03 DEBUG Incoming request job service availability method : part-time
+2020-10-06 11:43:03 DEBUG Incoming request job service id method : 1
+2020-10-06 11:43:03 DEBUG Incoming request job service id method : 0
+2020-10-06 11:43:03 ERROR Invalid request
+2020-10-06 11:43:03 DEBUG Incoming request job service experience method : 0
+2020-10-06 11:43:03 ERROR Invalid request
+2020-10-06 11:43:03 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 11:43:03 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=null, jobDescription=null, country=null, state=null, availability=null, replyRate=0, payRate=0, experience=0, skills=null, language=null, jobType=null, userInfo=UserInfo(id=0, username=null))
+2020-10-06 11:43:03 ERROR Fields should not be null
+2020-10-06 11:43:03 DEBUG Incoming request job service type method : null
+2020-10-06 11:43:03 ERROR Invalid request
+2020-10-06 11:43:03 DEBUG Incoming request job service language method : English
+2020-10-06 11:43:03 DEBUG Incoming request job service skills method : java,python
+2020-10-06 11:43:42 DEBUG Incoming request job service id method : null
+2020-10-06 11:43:42 ERROR Invalid request
+2020-10-06 11:44:57 DEBUG Incoming request job service id method : null
+2020-10-06 11:44:57 ERROR Invalid request
+2020-10-06 11:47:48 DEBUG Incoming request job service type method : 
+2020-10-06 11:47:48 ERROR Invalid request
+2020-10-06 11:48:53 DEBUG Incoming request job service type method : 
+2020-10-06 11:48:53 ERROR Invalid request
+2020-10-06 11:50:29 DEBUG Incoming request job service type method : null
+2020-10-06 11:50:29 ERROR Invalid request
+2020-10-06 11:51:17 DEBUG Incoming request job service type method : null
+2020-10-06 11:51:17 ERROR Invalid request
+2020-10-06 11:52:56 DEBUG Incoming request job service type method : null
+2020-10-06 11:52:56 ERROR Record not found
+2020-10-06 11:58:36 DEBUG Incoming request job service type method : 
+2020-10-06 11:58:36 ERROR Invalid request
+2020-10-06 11:58:53 DEBUG Incoming request job service payrate method : 1020
+2020-10-06 11:58:53 DEBUG Incoming request job service type method : Development
+2020-10-06 11:58:53 DEBUG Incoming request job service language method : null
+2020-10-06 11:58:53 ERROR Invalid request
+2020-10-06 11:58:53 DEBUG Incoming request job service payrate method : 00
+2020-10-06 11:58:53 ERROR Record not found
+2020-10-06 11:58:53 DEBUG Incoming request job service country method : IND
+2020-10-06 11:58:53 DEBUG Incoming request job service experience method : 5
+2020-10-06 11:58:53 DEBUG Incoming request job service availability method : null
+2020-10-06 11:58:53 ERROR Invalid request
+2020-10-06 11:58:53 DEBUG Incoming request job service id method : null
+2020-10-06 11:58:53 ERROR Invalid request
+2020-10-06 11:58:53 DEBUG Incoming request job service id method : null
+2020-10-06 11:58:53 ERROR Invalid request
+2020-10-06 11:58:53 DEBUG Incoming request job service skills method : null
+2020-10-06 11:58:53 ERROR Invalid request
+2020-10-06 11:58:53 DEBUG Incoming request job service country method : null
+2020-10-06 11:58:53 ERROR Invalid request
+2020-10-06 11:58:53 DEBUG Incoming request job service availability method : part-time
+2020-10-06 11:58:53 DEBUG Incoming request job service id method : 1
+2020-10-06 11:58:53 DEBUG Incoming request job service id method : 0
+2020-10-06 11:58:53 ERROR Invalid request
+2020-10-06 11:58:53 DEBUG Incoming request job service experience method : 0
+2020-10-06 11:58:53 ERROR Invalid request
+2020-10-06 11:58:53 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 11:58:53 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=null, jobDescription=null, country=null, state=null, availability=null, replyRate=0, payRate=0, experience=0, skills=null, language=null, jobType=null, userInfo=UserInfo(id=0, username=null))
+2020-10-06 11:58:53 ERROR Fields should not be null
+2020-10-06 11:58:53 DEBUG Incoming request job service type method : null
+2020-10-06 11:58:53 ERROR Invalid request
+2020-10-06 11:58:53 DEBUG Incoming request job service language method : English
+2020-10-06 11:58:53 DEBUG Incoming request job service skills method : java,python
+2020-10-06 11:59:19 DEBUG Incoming request job service type method : 
+2020-10-06 11:59:19 ERROR Invalid request
+2020-10-06 11:59:55 DEBUG Incoming request job service type method : null
+2020-10-06 11:59:55 ERROR Invalid request
+2020-10-06 12:00:21 DEBUG Incoming request job service type method : null
+2020-10-06 12:00:21 ERROR Record not found
+2020-10-06 12:00:39 DEBUG Incoming request job service type method : null
+2020-10-06 12:00:39 ERROR Invalid request
+2020-10-06 12:03:53 DEBUG Incoming request job service experience method : 500
+2020-10-06 12:05:29 DEBUG Incoming request job service experience method : 500
+2020-10-06 12:05:53 DEBUG Incoming request job service experience method : 500
+2020-10-06 12:09:42 DEBUG Incoming request job service experience method : null
+2020-10-06 12:10:08 DEBUG Incoming request job service experience method : 101
+2020-10-06 12:10:47 DEBUG Incoming request job service experience method : 101
+2020-10-06 12:10:47 ERROR Record not found
+2020-10-06 12:12:19 DEBUG Incoming request job service experience method : 101
+2020-10-06 12:12:19 ERROR Record not found
+2020-10-06 12:12:25 DEBUG Incoming request job service experience method : 101
+2020-10-06 12:12:25 ERROR Record not found
+2020-10-06 12:12:32 DEBUG Incoming request job service payrate method : 1020
+2020-10-06 12:12:32 DEBUG Incoming request job service type method : Development
+2020-10-06 12:12:32 DEBUG Incoming request job service language method : null
+2020-10-06 12:12:32 ERROR Invalid request
+2020-10-06 12:12:32 DEBUG Incoming request job service payrate method : 00
+2020-10-06 12:12:32 ERROR Record not found
+2020-10-06 12:12:32 DEBUG Incoming request job service country method : IND
+2020-10-06 12:12:32 DEBUG Incoming request job service experience method : 5
+2020-10-06 12:12:32 DEBUG Incoming request job service availability method : null
+2020-10-06 12:12:32 ERROR Invalid request
+2020-10-06 12:12:32 DEBUG Incoming request job service id method : null
+2020-10-06 12:12:32 ERROR Invalid request
+2020-10-06 12:12:32 DEBUG Incoming request job service id method : null
+2020-10-06 12:12:32 ERROR Invalid request
+2020-10-06 12:12:32 DEBUG Incoming request job service skills method : null
+2020-10-06 12:12:32 ERROR Invalid request
+2020-10-06 12:12:32 DEBUG Incoming request job service country method : null
+2020-10-06 12:12:32 ERROR Invalid request
+2020-10-06 12:12:32 DEBUG Incoming request job service experience method : 101
+2020-10-06 12:12:32 ERROR Record not found
+2020-10-06 12:12:32 DEBUG Incoming request job service availability method : part-time
+2020-10-06 12:12:32 DEBUG Incoming request job service id method : 1
+2020-10-06 12:12:32 DEBUG Incoming request job service id method : 0
+2020-10-06 12:12:32 ERROR Invalid request
+2020-10-06 12:12:32 DEBUG Incoming request job service experience method : 0
+2020-10-06 12:12:32 ERROR Invalid request
+2020-10-06 12:12:32 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 12:12:32 DEBUG Incoming request job service type method : null
+2020-10-06 12:12:32 ERROR Record not found
+2020-10-06 12:12:32 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=null, jobDescription=null, country=null, state=null, availability=null, replyRate=0, payRate=0, experience=0, skills=null, language=null, jobType=null, userInfo=UserInfo(id=0, username=null))
+2020-10-06 12:12:32 ERROR Fields should not be null
+2020-10-06 12:12:32 DEBUG Incoming request job service type method : null
+2020-10-06 12:12:32 ERROR Invalid request
+2020-10-06 12:12:32 DEBUG Incoming request job service language method : English
+2020-10-06 12:12:32 DEBUG Incoming request job service skills method : java,python
+2020-10-06 12:13:47 DEBUG Incoming request job service country method : yyyyyy
+2020-10-06 12:15:03 DEBUG Incoming request job service country method : yyyyyy
+2020-10-06 12:15:47 DEBUG Incoming request job service country method : yyyyyy
+2020-10-06 12:16:58 DEBUG Incoming request job service country method : yyyyyy12
+2020-10-06 12:20:26 DEBUG Incoming request job service country method : yyyyyy12
+2020-10-06 12:21:23 DEBUG Incoming request job service country method : 12
+2020-10-06 12:21:48 DEBUG Incoming request job service country method : 12
+2020-10-06 12:27:09 DEBUG Incoming request job service type method : Development
+2020-10-06 12:27:47 DEBUG Incoming request job service type method : null
+2020-10-06 12:27:48 ERROR Record not found
+2020-10-06 12:30:55 DEBUG Incoming request job service country method : usa
+2020-10-06 12:32:56 DEBUG Incoming request job service country method : null
+2020-10-06 12:32:56 ERROR Record not found
+2020-10-06 12:34:07 DEBUG Incoming request job service availability method : part-time
+2020-10-06 12:34:07 ERROR Record not found
+2020-10-06 12:35:32 DEBUG Incoming request job service language method : English
+2020-10-06 12:35:32 ERROR Record not found
+2020-10-06 12:38:35 DEBUG Incoming request job service skills method : java,python
+2020-10-06 12:38:35 ERROR Record not found
+2020-10-06 12:39:14 DEBUG Incoming request job service payrate method : 1020
+2020-10-06 12:40:14 DEBUG Incoming request job service payrate method : 1020
+2020-10-06 12:40:14 ERROR Record not found
+2020-10-06 14:12:02 DEBUG Incoming request job service payrate method : 1020
+2020-10-06 14:12:02 DEBUG Incoming request job service type method : Development
+2020-10-06 14:12:02 DEBUG Incoming request job service language method : null
+2020-10-06 14:12:02 ERROR Invalid request
+2020-10-06 14:12:02 DEBUG Incoming request job service country method : null
+2020-10-06 14:12:02 ERROR Record not found
+2020-10-06 14:12:02 DEBUG Incoming request job service language method : English
+2020-10-06 14:12:02 ERROR Record not found
+2020-10-06 14:12:02 DEBUG Incoming request job service payrate method : 00
+2020-10-06 14:12:02 ERROR Record not found
+2020-10-06 14:12:02 DEBUG Incoming request job service country method : IND
+2020-10-06 14:12:02 DEBUG Incoming request job service experience method : 5
+2020-10-06 14:12:02 DEBUG Incoming request job service skills method : java,python
+2020-10-06 14:12:02 ERROR Record not found
+2020-10-06 14:12:02 DEBUG Incoming request job service availability method : null
+2020-10-06 14:12:02 ERROR Invalid request
+2020-10-06 14:12:02 DEBUG Incoming request job service id method : null
+2020-10-06 14:12:02 ERROR Invalid request
+2020-10-06 14:12:02 DEBUG Incoming request job service id method : null
+2020-10-06 14:12:02 ERROR Invalid request
+2020-10-06 14:12:02 DEBUG Incoming request job service skills method : null
+2020-10-06 14:12:02 ERROR Invalid request
+2020-10-06 14:12:02 DEBUG Incoming request job service country method : null
+2020-10-06 14:12:02 ERROR Invalid request
+2020-10-06 14:12:02 DEBUG Incoming request job service experience method : 101
+2020-10-06 14:12:02 ERROR Record not found
+2020-10-06 14:12:02 DEBUG Incoming request job service availability method : part-time
+2020-10-06 14:12:02 DEBUG Incoming request job service id method : 1
+2020-10-06 14:12:02 DEBUG Incoming request job service availability method : part-time
+2020-10-06 14:12:02 ERROR Record not found
+2020-10-06 14:12:02 DEBUG Incoming request job service id method : 0
+2020-10-06 14:12:02 ERROR Invalid request
+2020-10-06 14:12:02 DEBUG Incoming request job service experience method : 0
+2020-10-06 14:12:02 ERROR Invalid request
+2020-10-06 14:12:02 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 14:12:02 DEBUG Incoming request job service type method : null
+2020-10-06 14:12:02 ERROR Record not found
+2020-10-06 14:12:02 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=null, jobDescription=null, country=null, state=null, availability=null, replyRate=0, payRate=0, experience=0, skills=null, language=null, jobType=null, userInfo=UserInfo(id=0, username=null))
+2020-10-06 14:12:02 ERROR Fields should not be null
+2020-10-06 14:12:02 DEBUG Incoming request job service type method : null
+2020-10-06 14:12:02 ERROR Invalid request
+2020-10-06 14:12:02 DEBUG Incoming request job service language method : English
+2020-10-06 14:12:02 DEBUG Incoming request job service skills method : java,python
+2020-10-06 14:14:09 DEBUG Incoming request job service : null
+2020-10-06 14:14:09 ERROR Invalid request
+2020-10-06 14:15:06 DEBUG Incoming request job service payrate method : 1020
+2020-10-06 14:15:06 DEBUG Incoming request job service type method : Development
+2020-10-06 14:15:06 DEBUG Incoming request job service language method : null
+2020-10-06 14:15:06 ERROR Invalid request
+2020-10-06 14:15:06 DEBUG Incoming request job service country method : null
+2020-10-06 14:15:06 ERROR Record not found
+2020-10-06 14:15:06 DEBUG Incoming request job service language method : English
+2020-10-06 14:15:06 ERROR Record not found
+2020-10-06 14:15:06 DEBUG Incoming request job service payrate method : 00
+2020-10-06 14:15:06 ERROR Record not found
+2020-10-06 14:15:06 DEBUG Incoming request job service country method : IND
+2020-10-06 14:15:06 DEBUG Incoming request job service experience method : 5
+2020-10-06 14:15:06 DEBUG Incoming request job service : null
+2020-10-06 14:15:06 ERROR Invalid request
+2020-10-06 14:15:06 DEBUG Incoming request job service skills method : java,python
+2020-10-06 14:15:06 ERROR Record not found
+2020-10-06 14:15:06 DEBUG Incoming request job service availability method : null
+2020-10-06 14:15:06 ERROR Invalid request
+2020-10-06 14:15:06 DEBUG Incoming request job service id method : null
+2020-10-06 14:15:06 ERROR Invalid request
+2020-10-06 14:15:06 DEBUG Incoming request job service id method : null
+2020-10-06 14:15:06 ERROR Invalid request
+2020-10-06 14:15:06 DEBUG Incoming request job service id method : null
+2020-10-06 14:15:06 ERROR Invalid request
+2020-10-06 14:15:06 DEBUG Incoming request job service skills method : null
+2020-10-06 14:15:06 ERROR Invalid request
+2020-10-06 14:15:06 DEBUG Incoming request job service country method : null
+2020-10-06 14:15:06 ERROR Invalid request
+2020-10-06 14:15:06 DEBUG Incoming request job service experience method : 101
+2020-10-06 14:15:06 ERROR Record not found
+2020-10-06 14:15:06 DEBUG Incoming request job service availability method : part-time
+2020-10-06 14:15:06 DEBUG Incoming request job service id method : 1
+2020-10-06 14:15:06 DEBUG Incoming request job service availability method : part-time
+2020-10-06 14:15:06 ERROR Record not found
+2020-10-06 14:15:06 DEBUG Incoming request job service id method : 0
+2020-10-06 14:15:06 ERROR Invalid request
+2020-10-06 14:15:06 DEBUG Incoming request job service experience method : 0
+2020-10-06 14:15:06 ERROR Invalid request
+2020-10-06 14:15:06 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 14:15:06 DEBUG Incoming request job service type method : null
+2020-10-06 14:15:06 ERROR Record not found
+2020-10-06 14:15:06 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=null, jobDescription=null, country=null, state=null, availability=null, replyRate=0, payRate=0, experience=0, skills=null, language=null, jobType=null, userInfo=UserInfo(id=0, username=null))
+2020-10-06 14:15:06 ERROR Fields should not be null
+2020-10-06 14:15:06 DEBUG Incoming request job service type method : null
+2020-10-06 14:15:06 ERROR Invalid request
+2020-10-06 14:15:06 DEBUG Incoming request job service language method : English
+2020-10-06 14:15:06 DEBUG Incoming request job service skills method : java,python
+2020-10-06 14:17:09 DEBUG Incoming request job service id method : null
+2020-10-06 14:17:09 ERROR Invalid request
+2020-10-06 14:17:25 DEBUG Incoming request job service payrate method : 1020
+2020-10-06 14:17:25 DEBUG Incoming request job service type method : Development
+2020-10-06 14:17:25 DEBUG Incoming request job service language method : null
+2020-10-06 14:17:25 ERROR Invalid request
+2020-10-06 14:17:25 DEBUG Incoming request job service country method : null
+2020-10-06 14:17:25 ERROR Record not found
+2020-10-06 14:17:25 DEBUG Incoming request job service language method : English
+2020-10-06 14:17:25 ERROR Record not found
+2020-10-06 14:17:25 DEBUG Incoming request job service payrate method : 00
+2020-10-06 14:17:25 ERROR Record not found
+2020-10-06 14:17:25 DEBUG Incoming request job service country method : IND
+2020-10-06 14:17:25 DEBUG Incoming request job service experience method : 5
+2020-10-06 14:17:25 DEBUG Incoming request job service : null
+2020-10-06 14:17:25 ERROR Invalid request
+2020-10-06 14:17:25 DEBUG Incoming request job service skills method : java,python
+2020-10-06 14:17:25 ERROR Record not found
+2020-10-06 14:17:25 DEBUG Incoming request job service availability method : null
+2020-10-06 14:17:25 ERROR Invalid request
+2020-10-06 14:17:25 DEBUG Incoming request job service id method : null
+2020-10-06 14:17:25 ERROR Invalid request
+2020-10-06 14:17:25 DEBUG Incoming request job service id method : null
+2020-10-06 14:17:25 ERROR Invalid request
+2020-10-06 14:17:25 DEBUG Incoming request job service skills method : null
+2020-10-06 14:17:25 ERROR Invalid request
+2020-10-06 14:17:25 DEBUG Incoming request job service country method : null
+2020-10-06 14:17:25 ERROR Invalid request
+2020-10-06 14:17:25 DEBUG Incoming request job service experience method : 101
+2020-10-06 14:17:25 ERROR Record not found
+2020-10-06 14:17:25 DEBUG Incoming request job service availability method : part-time
+2020-10-06 14:17:25 DEBUG Incoming request job service id method : 1
+2020-10-06 14:17:25 DEBUG Incoming request job service availability method : part-time
+2020-10-06 14:17:25 ERROR Record not found
+2020-10-06 14:17:25 DEBUG Incoming request job service id method : null
+2020-10-06 14:17:25 ERROR Invalid request
+2020-10-06 14:17:25 DEBUG Incoming request job service id method : 0
+2020-10-06 14:17:25 ERROR Invalid request
+2020-10-06 14:17:25 DEBUG Incoming request job service experience method : 0
+2020-10-06 14:17:25 ERROR Invalid request
+2020-10-06 14:17:25 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 14:17:25 DEBUG Incoming request job service type method : null
+2020-10-06 14:17:25 ERROR Record not found
+2020-10-06 14:17:25 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=null, jobDescription=null, country=null, state=null, availability=null, replyRate=0, payRate=0, experience=0, skills=null, language=null, jobType=null, userInfo=UserInfo(id=0, username=null))
+2020-10-06 14:17:25 ERROR Fields should not be null
+2020-10-06 14:17:25 DEBUG Incoming request job service type method : null
+2020-10-06 14:17:25 ERROR Invalid request
+2020-10-06 14:17:25 DEBUG Incoming request job service language method : English
+2020-10-06 14:17:25 DEBUG Incoming request job service skills method : java,python
+2020-10-06 14:52:39 DEBUG Incoming request job controller : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 14:52:39 DEBUG Incoming request job controller : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 14:56:10 DEBUG Incoming request jobid method : 1
+2020-10-06 14:56:10 DEBUG Incoming request jobid method : 1
+2020-10-06 14:56:48 DEBUG Incoming request job controller : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 14:56:48 DEBUG Incoming request job controller : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 14:56:48 DEBUG Incoming request jobid method : 1
+2020-10-06 14:56:48 DEBUG Incoming request jobid method : 1
+2020-10-06 14:59:13 DEBUG Incoming request job controller : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 14:59:39 DEBUG Incoming request job controller : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 14:59:39 DEBUG Incoming request jobid method : 1
+2020-10-06 14:59:39 DEBUG Incoming request jobid method : 1
+2020-10-06 15:11:46 DEBUG Incoming request job service payrate method : 1020
+2020-10-06 15:11:46 DEBUG Incoming request job service type method : Development
+2020-10-06 15:11:46 DEBUG Incoming request job service language method : null
+2020-10-06 15:11:46 ERROR Invalid request
+2020-10-06 15:11:46 DEBUG Incoming request job service country method : null
+2020-10-06 15:11:46 ERROR Record not found
+2020-10-06 15:11:46 DEBUG Incoming request job service language method : English
+2020-10-06 15:11:46 ERROR Record not found
+2020-10-06 15:11:46 DEBUG Incoming request job service payrate method : 00
+2020-10-06 15:11:46 ERROR Record not found
+2020-10-06 15:11:46 DEBUG Incoming request job service country method : IND
+2020-10-06 15:11:46 DEBUG Incoming request job service experience method : 5
+2020-10-06 15:11:46 DEBUG Incoming request job service : null
+2020-10-06 15:11:46 ERROR Invalid request
+2020-10-06 15:11:46 DEBUG Incoming request job service skills method : java,python
+2020-10-06 15:11:46 ERROR Record not found
+2020-10-06 15:11:46 DEBUG Incoming request job service availability method : null
+2020-10-06 15:11:46 ERROR Invalid request
+2020-10-06 15:11:46 DEBUG Incoming request job service id method : null
+2020-10-06 15:11:46 ERROR Invalid request
+2020-10-06 15:11:46 DEBUG Incoming request job service id method : null
+2020-10-06 15:11:46 ERROR Invalid request
+2020-10-06 15:11:46 DEBUG Incoming request job service skills method : null
+2020-10-06 15:11:46 ERROR Invalid request
+2020-10-06 15:11:46 DEBUG Incoming request job service country method : null
+2020-10-06 15:11:46 ERROR Invalid request
+2020-10-06 15:11:46 DEBUG Incoming request job service experience method : 101
+2020-10-06 15:11:46 ERROR Record not found
+2020-10-06 15:11:46 DEBUG Incoming request job service availability method : part-time
+2020-10-06 15:11:46 DEBUG Incoming request job service id method : 1
+2020-10-06 15:11:46 DEBUG Incoming request job service availability method : part-time
+2020-10-06 15:11:46 ERROR Record not found
+2020-10-06 15:11:46 DEBUG Incoming request job service id method : null
+2020-10-06 15:11:46 ERROR Invalid request
+2020-10-06 15:11:46 DEBUG Incoming request job service id method : 0
+2020-10-06 15:11:46 ERROR Invalid request
+2020-10-06 15:11:46 DEBUG Incoming request job service experience method : 0
+2020-10-06 15:11:46 ERROR Invalid request
+2020-10-06 15:11:46 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 15:11:46 DEBUG Incoming request job service type method : null
+2020-10-06 15:11:46 ERROR Record not found
+2020-10-06 15:11:46 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=null, jobDescription=null, country=null, state=null, availability=null, replyRate=0, payRate=0, experience=0, skills=null, language=null, jobType=null, userInfo=UserInfo(id=0, username=null))
+2020-10-06 15:11:46 ERROR Fields should not be null
+2020-10-06 15:11:46 DEBUG Incoming request job service type method : null
+2020-10-06 15:11:46 ERROR Invalid request
+2020-10-06 15:11:46 DEBUG Incoming request job service language method : English
+2020-10-06 15:11:46 DEBUG Incoming request job service skills method : java,python
+2020-10-06 15:13:16 DEBUG Incoming request job service payrate method : 1020
+2020-10-06 15:13:16 ERROR Record not found
+2020-10-06 15:18:21 DEBUG Incoming request job service payrate method : 1020
+2020-10-06 15:18:21 DEBUG Incoming request job service type method : Development
+2020-10-06 15:18:21 DEBUG Incoming request job service language method : null
+2020-10-06 15:18:21 ERROR Invalid request
+2020-10-06 15:18:21 DEBUG Incoming request job service country method : null
+2020-10-06 15:18:21 ERROR Record not found
+2020-10-06 15:18:21 DEBUG Incoming request job service language method : English
+2020-10-06 15:18:21 ERROR Record not found
+2020-10-06 15:18:21 DEBUG Incoming request job service payrate method : 00
+2020-10-06 15:18:21 ERROR Record not found
+2020-10-06 15:18:21 DEBUG Incoming request job service country method : IND
+2020-10-06 15:18:21 DEBUG Incoming request job service experience method : 5
+2020-10-06 15:18:21 DEBUG Incoming request job service : null
+2020-10-06 15:18:21 ERROR Invalid request
+2020-10-06 15:18:21 DEBUG Incoming request job service skills method : java,python
+2020-10-06 15:18:21 ERROR Record not found
+2020-10-06 15:18:21 DEBUG Incoming request job service availability method : null
+2020-10-06 15:18:21 ERROR Invalid request
+2020-10-06 15:18:21 DEBUG Incoming request job service id method : null
+2020-10-06 15:18:21 ERROR Invalid request
+2020-10-06 15:18:21 DEBUG Incoming request job service id method : null
+2020-10-06 15:18:21 ERROR Invalid request
+2020-10-06 15:18:21 DEBUG Incoming request job service skills method : null
+2020-10-06 15:18:21 ERROR Invalid request
+2020-10-06 15:18:21 DEBUG Incoming request job service country method : null
+2020-10-06 15:18:21 ERROR Invalid request
+2020-10-06 15:18:21 DEBUG Incoming request job service experience method : 101
+2020-10-06 15:18:21 ERROR Record not found
+2020-10-06 15:18:21 DEBUG Incoming request job service availability method : part-time
+2020-10-06 15:18:21 DEBUG Incoming request job service id method : 1
+2020-10-06 15:18:21 DEBUG Incoming request job service availability method : part-time
+2020-10-06 15:18:21 ERROR Record not found
+2020-10-06 15:18:21 DEBUG Incoming request job service id method : null
+2020-10-06 15:18:21 ERROR Invalid request
+2020-10-06 15:18:21 DEBUG Incoming request job service id method : 0
+2020-10-06 15:18:21 ERROR Invalid request
+2020-10-06 15:18:21 DEBUG Incoming request job service experience method : 0
+2020-10-06 15:18:21 ERROR Invalid request
+2020-10-06 15:18:21 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 15:18:21 DEBUG Incoming request job service type method : null
+2020-10-06 15:18:21 ERROR Record not found
+2020-10-06 15:18:21 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=null, jobDescription=null, country=null, state=null, availability=null, replyRate=0, payRate=0, experience=0, skills=null, language=null, jobType=null, userInfo=UserInfo(id=0, username=null))
+2020-10-06 15:18:21 ERROR Fields should not be null
+2020-10-06 15:18:21 DEBUG Incoming request job service type method : null
+2020-10-06 15:18:21 ERROR Invalid request
+2020-10-06 15:18:21 DEBUG Incoming request job service language method : English
+2020-10-06 15:18:21 DEBUG Incoming request job service skills method : java,python
+2020-10-06 15:18:21 DEBUG Incoming request experience method : 5
+2020-10-06 15:18:21 DEBUG Incoming request type method : Developer
+2020-10-06 15:18:21 DEBUG Incoming request country method : IND
+2020-10-06 15:18:21 DEBUG Incoming request job controller : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 15:18:21 DEBUG Incoming request jobid method : 1
+2020-10-06 15:18:55 DEBUG Incoming request job service payrate method : 1020
+2020-10-06 15:18:55 ERROR Record not found
+2020-10-06 15:29:42 DEBUG Incoming request payrate method : 1020
+2020-10-06 15:29:42 DEBUG Incoming request experience method : 5
+2020-10-06 15:29:42 DEBUG Incoming request language method : English
+2020-10-06 15:29:42 DEBUG Incoming request type method : Developer
+2020-10-06 15:29:42 DEBUG Incoming request country method : IND
+2020-10-06 15:29:42 DEBUG Incoming request getalljob method 
+2020-10-06 15:29:42 DEBUG Incoming request skills method : java
+2020-10-06 15:29:42 DEBUG Incoming request availability method : part-time
+2020-10-06 15:29:42 DEBUG Incoming request job controller : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 15:29:42 DEBUG Incoming request jobid method : 1
+2020-10-06 15:30:22 DEBUG Incoming request job service payrate method : 1020
+2020-10-06 15:30:22 DEBUG Incoming request job service type method : Development
+2020-10-06 15:30:23 DEBUG Incoming request job service language method : null
+2020-10-06 15:30:23 ERROR Invalid request
+2020-10-06 15:30:23 DEBUG Incoming request job service country method : null
+2020-10-06 15:30:23 ERROR Record not found
+2020-10-06 15:30:23 DEBUG Incoming request job service language method : English
+2020-10-06 15:30:23 ERROR Record not found
+2020-10-06 15:30:23 DEBUG Incoming request job service payrate method : 00
+2020-10-06 15:30:23 ERROR Record not found
+2020-10-06 15:30:23 DEBUG Incoming request job service country method : IND
+2020-10-06 15:30:23 DEBUG Incoming request job service experience method : 5
+2020-10-06 15:30:23 DEBUG Incoming request job service : null
+2020-10-06 15:30:23 ERROR Invalid request
+2020-10-06 15:30:23 DEBUG Incoming request job service skills method : java,python
+2020-10-06 15:30:23 ERROR Record not found
+2020-10-06 15:30:23 DEBUG Incoming request job service availability method : null
+2020-10-06 15:30:23 ERROR Invalid request
+2020-10-06 15:30:23 DEBUG Incoming request job service id method : null
+2020-10-06 15:30:23 ERROR Invalid request
+2020-10-06 15:30:23 DEBUG Incoming request job service id method : null
+2020-10-06 15:30:23 ERROR Invalid request
+2020-10-06 15:30:23 DEBUG Incoming request job service skills method : null
+2020-10-06 15:30:23 ERROR Invalid request
+2020-10-06 15:30:23 DEBUG Incoming request job service country method : null
+2020-10-06 15:30:23 ERROR Invalid request
+2020-10-06 15:30:23 DEBUG Incoming request job service experience method : 101
+2020-10-06 15:30:23 ERROR Record not found
+2020-10-06 15:30:23 DEBUG Incoming request job service availability method : part-time
+2020-10-06 15:30:23 DEBUG Incoming request job service id method : 1
+2020-10-06 15:30:23 DEBUG Incoming request job service availability method : part-time
+2020-10-06 15:30:23 ERROR Record not found
+2020-10-06 15:30:23 DEBUG Incoming request job service id method : null
+2020-10-06 15:30:23 ERROR Invalid request
+2020-10-06 15:30:23 DEBUG Incoming request job service id method : 0
+2020-10-06 15:30:23 ERROR Invalid request
+2020-10-06 15:30:23 DEBUG Incoming request job service experience method : 0
+2020-10-06 15:30:23 ERROR Invalid request
+2020-10-06 15:30:23 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 15:30:23 DEBUG Incoming request job service type method : null
+2020-10-06 15:30:23 ERROR Record not found
+2020-10-06 15:30:23 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=null, jobDescription=null, country=null, state=null, availability=null, replyRate=0, payRate=0, experience=0, skills=null, language=null, jobType=null, userInfo=UserInfo(id=0, username=null))
+2020-10-06 15:30:23 ERROR Fields should not be null
+2020-10-06 15:30:23 DEBUG Incoming request job service type method : null
+2020-10-06 15:30:23 ERROR Invalid request
+2020-10-06 15:30:23 DEBUG Incoming request job service language method : English
+2020-10-06 15:30:23 DEBUG Incoming request job service skills method : java,python
+2020-10-06 15:30:23 DEBUG Incoming request payrate method : 1020
+2020-10-06 15:30:23 DEBUG Incoming request experience method : 5
+2020-10-06 15:30:23 DEBUG Incoming request language method : English
+2020-10-06 15:30:23 DEBUG Incoming request type method : Developer
+2020-10-06 15:30:23 DEBUG Incoming request country method : IND
+2020-10-06 15:30:23 DEBUG Incoming request getalljob method 
+2020-10-06 15:30:23 DEBUG Incoming request skills method : java
+2020-10-06 15:30:23 DEBUG Incoming request availability method : part-time
+2020-10-06 15:30:23 DEBUG Incoming request job controller : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 15:30:23 DEBUG Incoming request jobid method : 1
+2020-10-06 15:35:26 DEBUG Incoming request uploadfile method 
+2020-10-06 15:40:01 DEBUG Incoming request job service payrate method : 1020
+2020-10-06 15:40:01 DEBUG Incoming request job service type method : Development
+2020-10-06 15:40:01 DEBUG Incoming request job service language method : null
+2020-10-06 15:40:01 ERROR Invalid request
+2020-10-06 15:40:01 DEBUG Incoming request job service country method : null
+2020-10-06 15:40:01 ERROR Record not found
+2020-10-06 15:40:01 DEBUG Incoming request job service language method : English
+2020-10-06 15:40:01 ERROR Record not found
+2020-10-06 15:40:01 DEBUG Incoming request job service payrate method : 00
+2020-10-06 15:40:01 ERROR Record not found
+2020-10-06 15:40:01 DEBUG Incoming request job service country method : IND
+2020-10-06 15:40:01 DEBUG Incoming request job service experience method : 5
+2020-10-06 15:40:01 DEBUG Incoming request job service : null
+2020-10-06 15:40:01 ERROR Invalid request
+2020-10-06 15:40:01 DEBUG Incoming request job service skills method : java,python
+2020-10-06 15:40:01 ERROR Record not found
+2020-10-06 15:40:01 DEBUG Incoming request job service availability method : null
+2020-10-06 15:40:01 ERROR Invalid request
+2020-10-06 15:40:01 DEBUG Incoming request job service id method : null
+2020-10-06 15:40:01 ERROR Invalid request
+2020-10-06 15:40:01 DEBUG Incoming request job service id method : null
+2020-10-06 15:40:01 ERROR Invalid request
+2020-10-06 15:40:01 DEBUG Incoming request job service skills method : null
+2020-10-06 15:40:01 ERROR Invalid request
+2020-10-06 15:40:01 DEBUG Incoming request job service country method : null
+2020-10-06 15:40:01 ERROR Invalid request
+2020-10-06 15:40:01 DEBUG Incoming request job service experience method : 101
+2020-10-06 15:40:01 ERROR Record not found
+2020-10-06 15:40:01 DEBUG Incoming request job service availability method : part-time
+2020-10-06 15:40:01 DEBUG Incoming request job service id method : 1
+2020-10-06 15:40:01 DEBUG Incoming request job service availability method : part-time
+2020-10-06 15:40:01 ERROR Record not found
+2020-10-06 15:40:01 DEBUG Incoming request job service id method : null
+2020-10-06 15:40:01 ERROR Invalid request
+2020-10-06 15:40:01 DEBUG Incoming request job service id method : 0
+2020-10-06 15:40:01 ERROR Invalid request
+2020-10-06 15:40:01 DEBUG Incoming request job service experience method : 0
+2020-10-06 15:40:01 ERROR Invalid request
+2020-10-06 15:40:01 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 15:40:01 DEBUG Incoming request job service type method : null
+2020-10-06 15:40:01 ERROR Record not found
+2020-10-06 15:40:01 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=null, jobDescription=null, country=null, state=null, availability=null, replyRate=0, payRate=0, experience=0, skills=null, language=null, jobType=null, userInfo=UserInfo(id=0, username=null))
+2020-10-06 15:40:01 ERROR Fields should not be null
+2020-10-06 15:40:01 DEBUG Incoming request job service type method : null
+2020-10-06 15:40:01 ERROR Invalid request
+2020-10-06 15:40:01 DEBUG Incoming request job service language method : English
+2020-10-06 15:40:01 DEBUG Incoming request job service skills method : java,python
+2020-10-06 15:40:01 DEBUG Incoming request payrate method : 1020
+2020-10-06 15:40:01 DEBUG Incoming request experience method : 5
+2020-10-06 15:40:01 DEBUG Incoming request language method : English
+2020-10-06 15:40:01 DEBUG Incoming request type method : Developer
+2020-10-06 15:40:01 DEBUG Incoming request uploadfile method 
+2020-10-06 15:40:01 DEBUG Incoming request country method : IND
+2020-10-06 15:40:01 DEBUG Incoming request getalljob method 
+2020-10-06 15:40:01 DEBUG Incoming request skills method : java
+2020-10-06 15:40:01 DEBUG Incoming request availability method : part-time
+2020-10-06 15:40:01 DEBUG Incoming request job controller : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 15:40:01 DEBUG Incoming request jobid method : 1
+2020-10-06 15:49:00 DEBUG Incoming request job service payrate method : 1020
+2020-10-06 15:49:00 DEBUG Incoming request job service type method : Development
+2020-10-06 15:49:00 DEBUG Incoming request job service language method : null
+2020-10-06 15:49:00 ERROR Invalid request
+2020-10-06 15:49:00 DEBUG Incoming request job service country method : null
+2020-10-06 15:49:00 ERROR Record not found
+2020-10-06 15:49:00 DEBUG Incoming request job service language method : English
+2020-10-06 15:49:00 ERROR Record not found
+2020-10-06 15:49:00 DEBUG Incoming request job service payrate method : 00
+2020-10-06 15:49:00 ERROR Record not found
+2020-10-06 15:49:00 DEBUG Incoming request job service country method : IND
+2020-10-06 15:49:00 DEBUG Incoming request job service experience method : 5
+2020-10-06 15:49:00 DEBUG Incoming request job service : null
+2020-10-06 15:49:00 ERROR Invalid request
+2020-10-06 15:49:00 DEBUG Incoming request job service skills method : java,python
+2020-10-06 15:49:00 ERROR Record not found
+2020-10-06 15:49:00 DEBUG Incoming request job service availability method : null
+2020-10-06 15:49:00 ERROR Invalid request
+2020-10-06 15:49:00 DEBUG Incoming request job service id method : null
+2020-10-06 15:49:00 ERROR Invalid request
+2020-10-06 15:49:00 DEBUG Incoming request job service id method : null
+2020-10-06 15:49:00 ERROR Invalid request
+2020-10-06 15:49:00 DEBUG Incoming request job service skills method : null
+2020-10-06 15:49:00 ERROR Invalid request
+2020-10-06 15:49:00 DEBUG Incoming request job service country method : null
+2020-10-06 15:49:00 ERROR Invalid request
+2020-10-06 15:49:00 DEBUG Incoming request job service experience method : 101
+2020-10-06 15:49:00 ERROR Record not found
+2020-10-06 15:49:00 DEBUG Incoming request job service availability method : part-time
+2020-10-06 15:49:00 DEBUG Incoming request job service id method : 1
+2020-10-06 15:49:00 DEBUG Incoming request job service availability method : part-time
+2020-10-06 15:49:00 ERROR Record not found
+2020-10-06 15:49:00 DEBUG Incoming request job service id method : null
+2020-10-06 15:49:00 ERROR Invalid request
+2020-10-06 15:49:00 DEBUG Incoming request job service id method : 0
+2020-10-06 15:49:00 ERROR Invalid request
+2020-10-06 15:49:00 DEBUG Incoming request job service experience method : 0
+2020-10-06 15:49:00 ERROR Invalid request
+2020-10-06 15:49:00 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 15:49:00 DEBUG Incoming request job service type method : null
+2020-10-06 15:49:00 ERROR Record not found
+2020-10-06 15:49:00 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=null, jobDescription=null, country=null, state=null, availability=null, replyRate=0, payRate=0, experience=0, skills=null, language=null, jobType=null, userInfo=UserInfo(id=0, username=null))
+2020-10-06 15:49:00 ERROR Fields should not be null
+2020-10-06 15:49:00 DEBUG Incoming request job service type method : null
+2020-10-06 15:49:00 ERROR Invalid request
+2020-10-06 15:49:00 DEBUG Incoming request job service language method : English
+2020-10-06 15:49:00 DEBUG Incoming request job service skills method : java,python
+2020-10-06 15:49:00 DEBUG Incoming request payrate method : 1020
+2020-10-06 15:49:00 DEBUG Incoming request experience method : 5
+2020-10-06 15:49:00 DEBUG Incoming request language method : English
+2020-10-06 15:49:00 DEBUG Incoming request type method : Developer
+2020-10-06 15:49:00 DEBUG Incoming request uploadfile method 
+2020-10-06 15:49:00 DEBUG Incoming request country method : IND
+2020-10-06 15:49:00 DEBUG Incoming request getalljob method 
+2020-10-06 15:49:00 DEBUG Incoming request skills method : java
+2020-10-06 15:49:00 DEBUG Incoming request availability method : part-time
+2020-10-06 15:49:00 DEBUG Incoming request job controller : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 15:49:00 DEBUG Incoming request jobid method : 1
+2020-10-06 15:53:49 DEBUG Incoming request job service payrate method : 1020
+2020-10-06 15:53:49 DEBUG Incoming request job service type method : Development
+2020-10-06 15:53:49 DEBUG Incoming request job service language method : null
+2020-10-06 15:53:49 ERROR Invalid request
+2020-10-06 15:53:49 DEBUG Incoming request job service country method : null
+2020-10-06 15:53:49 ERROR Record not found
+2020-10-06 15:53:49 DEBUG Incoming request job service language method : English
+2020-10-06 15:53:49 ERROR Record not found
+2020-10-06 15:53:49 DEBUG Incoming request job service payrate method : 00
+2020-10-06 15:53:49 ERROR Record not found
+2020-10-06 15:53:49 DEBUG Incoming request job service country method : IND
+2020-10-06 15:53:49 DEBUG Incoming request job service experience method : 5
+2020-10-06 15:53:49 DEBUG Incoming request job service : null
+2020-10-06 15:53:49 ERROR Invalid request
+2020-10-06 15:53:49 DEBUG Incoming request job service skills method : java,python
+2020-10-06 15:53:49 ERROR Record not found
+2020-10-06 15:53:49 DEBUG Incoming request job service availability method : null
+2020-10-06 15:53:49 ERROR Invalid request
+2020-10-06 15:53:49 DEBUG Incoming request job service id method : null
+2020-10-06 15:53:49 ERROR Invalid request
+2020-10-06 15:53:49 DEBUG Incoming request job service id method : null
+2020-10-06 15:53:49 ERROR Invalid request
+2020-10-06 15:53:49 DEBUG Incoming request job service skills method : null
+2020-10-06 15:53:49 ERROR Invalid request
+2020-10-06 15:53:49 DEBUG Incoming request job service country method : null
+2020-10-06 15:53:49 ERROR Invalid request
+2020-10-06 15:53:49 DEBUG Incoming request job service experience method : 101
+2020-10-06 15:53:49 ERROR Record not found
+2020-10-06 15:53:49 DEBUG Incoming request job service availability method : part-time
+2020-10-06 15:53:49 DEBUG Incoming request job service id method : 1
+2020-10-06 15:53:49 DEBUG Incoming request job service availability method : part-time
+2020-10-06 15:53:49 ERROR Record not found
+2020-10-06 15:53:49 DEBUG Incoming request job service id method : null
+2020-10-06 15:53:49 ERROR Invalid request
+2020-10-06 15:53:49 DEBUG Incoming request job service id method : 0
+2020-10-06 15:53:49 ERROR Invalid request
+2020-10-06 15:53:49 DEBUG Incoming request job service payrate method : 1020
+2020-10-06 15:53:49 ERROR Record not found
+2020-10-06 15:53:49 DEBUG Incoming request job service experience method : 0
+2020-10-06 15:53:49 ERROR Invalid request
+2020-10-06 15:53:49 DEBUG Incoming request job service : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 15:53:49 DEBUG Incoming request job service type method : null
+2020-10-06 15:53:49 ERROR Record not found
+2020-10-06 15:53:49 DEBUG Incoming request job service : JobPortal(id=0, jobTitle=null, jobDescription=null, country=null, state=null, availability=null, replyRate=0, payRate=0, experience=0, skills=null, language=null, jobType=null, userInfo=UserInfo(id=0, username=null))
+2020-10-06 15:53:49 ERROR Fields should not be null
+2020-10-06 15:53:49 DEBUG Incoming request job service type method : null
+2020-10-06 15:53:49 ERROR Invalid request
+2020-10-06 15:53:49 DEBUG Incoming request job service language method : English
+2020-10-06 15:53:49 DEBUG Incoming request job service skills method : java,python
+2020-10-06 15:53:49 DEBUG Incoming request payrate method : 1020
+2020-10-06 15:53:49 DEBUG Incoming request experience method : 5
+2020-10-06 15:53:49 DEBUG Incoming request language method : English
+2020-10-06 15:53:49 DEBUG Incoming request type method : Developer
+2020-10-06 15:53:49 DEBUG Incoming request uploadfile method 
+2020-10-06 15:53:49 DEBUG Incoming request country method : IND
+2020-10-06 15:53:49 DEBUG Incoming request getalljob method 
+2020-10-06 15:53:49 DEBUG Incoming request skills method : java
+2020-10-06 15:53:49 DEBUG Incoming request availability method : part-time
+2020-10-06 15:53:49 DEBUG Incoming request job controller : JobPortal(id=1, jobTitle=java developer, jobDescription=need to develop the application, country=INDIA, state=ts, availability=part-time, replyRate=25, payRate=20, experience=7, skills=java,python, language=english, jobType=testing, userInfo=UserInfo(id=0, username=ajay))
+2020-10-06 15:53:49 DEBUG Incoming request jobid method : 1
