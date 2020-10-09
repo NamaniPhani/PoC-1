@@ -1,0 +1,16 @@
+2020-09-29 12:38:10 DEBUG Inside create user method
+2020-09-29 12:38:11 ERROR Inside catch block of create user
+2020-09-29 12:39:50 DEBUG Inside create user method
+2020-09-29 12:39:50 ERROR Inside catch block of create user
+2020-09-29 12:41:48 DEBUG Inside getByType method of the controller
+2020-09-29 12:42:00 DEBUG Inside getByType method of the controller
+2020-09-29 12:42:56 DEBUG Inside getByType method of the controller
+2020-09-29 12:42:56 DEBUG Inside findByJobType  method of service class
+2020-09-29 12:42:56 DEBUG StandardServletEnvironment {activeProfiles=[], defaultProfiles=[default], propertySources=[MapPropertySource {name='server.ports'}, ConfigurationPropertySourcesPropertySource {name='configurationProperties'}, SimpleCommandLinePropertySource {name='commandLineArgs'}, StubPropertySource {name='servletConfigInitParams'}, ServletContextPropertySource {name='servletContextInitParams'}, PropertiesPropertySource {name='systemProperties'}, OriginAwareSystemEnvironmentPropertySource {name='systemEnvironment'}, RandomValuePropertySource {name='random'}, MapPropertySource {name='springCloudClientHostInfo'}, OriginTrackedMapPropertySource {name='applicationConfig: [classpath:/application.properties]'}, MapPropertySource {name='devtools'}, MapPropertySource {name='springCloudDefaultProperties'}, CachedRandomPropertySource {name='cachedrandom'}]}      environment
+2020-09-29 12:45:22 DEBUG Inside getByType method of the controller
+2020-09-29 12:45:22 DEBUG Inside findByJobType  method of service class
+2020-09-29 12:45:22 DEBUG 1
+2020-09-29 12:47:35 DEBUG Inside getByType method of the controller
+2020-09-29 12:47:35 DEBUG Inside findByJobType  method of service class
+2020-09-29 18:20:29 DEBUG Inside getByType method of the controller
+2020-09-29 18:20:29 DEBUG Inside findByJobType  method of service class
