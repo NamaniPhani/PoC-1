@@ -1,0 +1,111 @@
+2020-09-25 10:18:55 DEBUG data coming into the controller
+2020-09-25 10:18:55 DEBUG data coming into the service class
+2020-09-25 10:33:13 DEBUG data coming into controller
+2020-09-25 10:33:13 DEBUG data coming in to the service
+2020-09-25 10:35:19 DEBUG data coming into controller
+2020-09-25 10:35:19 DEBUG data coming in to the service
+2020-09-25 10:57:53 DEBUG data coming into controller
+2020-09-25 10:57:53 DEBUG data coming in to the service
+2020-09-25 10:59:00 DEBUG data coming into controller
+2020-09-25 10:59:00 DEBUG data coming into the service class
+2020-09-25 11:03:01 DEBUG data coming into controller
+2020-09-25 11:03:01 DEBUG data coming into the service class
+2020-09-25 11:03:11 DEBUG data coming into controller
+2020-09-25 11:03:11 DEBUG data coming into the service class
+2020-09-25 11:03:14 DEBUG data coming into controller
+2020-09-25 11:03:14 DEBUG data coming into the service class
+2020-09-25 11:07:43 DEBUG data coming into controller
+2020-09-25 11:07:43 DEBUG data coming into the service class
+2020-09-25 11:19:45 ERROR please provide id
+2020-09-25 11:19:51 ERROR please provide id
+2020-09-25 11:20:19 ERROR please provide id
+2020-09-25 11:44:00 DEBUG data coming into controller
+2020-09-25 11:44:00 DEBUG data coming in to the service
+2020-09-25 11:44:49 DEBUG data coming into controller
+2020-09-25 11:44:49 DEBUG data coming in to the service
+2020-09-25 11:47:16 DEBUG data coming into controller
+2020-09-25 11:47:16 DEBUG data coming in to the service
+2020-09-25 11:51:20 DEBUG data coming into controller
+2020-09-25 11:51:20 DEBUG data coming in to the service
+2020-09-25 13:05:39 DEBUG data coming into controller
+2020-09-25 13:05:39 DEBUG data coming in to the service
+2020-09-25 13:10:50 DEBUG data coming into controller
+2020-09-25 13:10:50 DEBUG data coming in to the service
+2020-09-25 13:11:53 ERROR please provide id
+2020-09-25 13:14:17 ERROR please provide id
+2020-09-25 13:14:55 ERROR please provide id
+2020-09-25 13:16:47 ERROR please provide id
+2020-09-25 13:17:28 ERROR please provide id
+2020-09-25 14:14:33 ERROR please provide id
+2020-09-25 14:14:33 DEBUG Incoming request job service id method : 1
+2020-09-25 14:14:33 ERROR Record not found
+2020-09-25 14:16:03 ERROR please provide id
+2020-09-25 14:16:03 DEBUG Incoming request job service id method : 14
+2020-09-25 14:17:42 ERROR please provide id
+2020-09-25 14:17:42 DEBUG Incoming request job service id method : 14
+2020-09-25 14:27:08 ERROR please provide id
+2020-09-25 14:27:08 DEBUG Incoming request job service id method : 14
+2020-09-25 14:49:59 DEBUG data coming into controller
+2020-09-25 14:49:59 DEBUG data coming in to the service
+2020-09-25 14:51:02 DEBUG data coming into controller
+2020-09-25 14:51:02 DEBUG data coming in to the service
+2020-09-25 14:51:55 ERROR please provide id
+2020-09-25 14:51:55 DEBUG Incoming request job service id method : 14
+2020-09-25 14:56:51 ERROR please provide id
+2020-09-25 14:56:51 DEBUG Incoming request job service id method : 14
+2020-09-25 15:24:18 ERROR please provide job type
+2020-09-25 15:24:21 ERROR Record not found
+2020-09-25 15:24:53 ERROR please provide job type
+2020-09-25 15:30:03 DEBUG data coming into controller
+2020-09-25 15:30:03 DEBUG data coming in to the service
+2020-09-25 15:31:00 DEBUG data coming into controller
+2020-09-25 15:31:00 DEBUG data coming in to the service
+2020-09-25 15:31:35 DEBUG data coming into controller
+2020-09-25 15:31:35 DEBUG data coming in to the service
+2020-09-25 16:21:35 DEBUG data coming into controller
+2020-09-25 16:21:35 ERROR data coming in to the service
+2020-09-25 16:24:12 DEBUG data coming into controller
+2020-09-25 16:24:12 ERROR data coming in to the service
+2020-09-25 16:24:20 DEBUG data coming into controller
+2020-09-25 16:24:20 ERROR data coming in to the service
+2020-09-25 16:43:52 ERROR please provide id
+2020-09-25 16:43:52 DEBUG Request coming in to the job service id method : 1
+2020-09-25 16:43:54 ERROR Record not found
+2020-09-25 17:01:34 ERROR please provide id
+2020-09-25 17:01:36 DEBUG Request coming in to the job service id method : 1
+2020-09-25 17:01:44 ERROR Record not found
+2020-09-26 11:07:30 DEBUG data coming into controller
+2020-09-26 11:07:30 DEBUG data coming into the service class
+2020-09-26 11:07:38 DEBUG data coming into controller
+2020-09-26 11:07:38 DEBUG data coming into the service class
+2020-09-26 11:12:36 DEBUG data coming into controller
+2020-09-26 11:12:36 ERROR data coming in to the service
+2020-09-26 11:12:53 DEBUG data coming into controller
+2020-09-26 11:12:53 ERROR data coming in to the service
+2020-09-29 16:13:44 ERROR please provide job type
+2020-09-29 16:14:09 ERROR please provide job type
+2020-09-29 16:37:11 ERROR please provide job type
+2020-09-29 16:52:26 ERROR please provide experince
+2020-09-29 16:59:20 ERROR please provide experince
+2020-09-29 16:59:20 ERROR Record not found
+2020-09-29 17:09:44 ERROR please provide country
+2020-09-29 17:09:44 ERROR Record not found
+2020-09-29 17:10:09 ERROR please provide country
+2020-09-29 17:10:09 ERROR Record not found
+2020-09-29 17:10:19 ERROR please provide country
+2020-09-29 17:10:40 ERROR please provide country
+2020-09-29 17:10:40 ERROR Record not found
+2020-09-29 17:10:43 ERROR please provide country
+2020-09-29 17:10:43 ERROR Record not found
+2020-09-29 17:11:10 ERROR please provide country
+2020-09-29 17:11:10 ERROR Record not found
+2020-09-29 17:11:12 ERROR please provide country
+2020-09-29 17:11:12 ERROR Record not found
+2020-09-29 17:12:48 ERROR please provide country
+2020-09-29 17:12:48 ERROR Record not found
+2020-09-29 17:13:44 ERROR please provide country
+2020-09-29 17:13:44 ERROR Record not found
+2020-09-29 17:14:47 ERROR please provide country
+2020-09-29 17:16:06 ERROR please provide experince
+2020-09-29 17:16:06 ERROR Record not found
+2020-09-29 17:16:53 ERROR please provide experince
