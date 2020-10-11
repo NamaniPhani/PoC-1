@@ -1,0 +1,18 @@
+package com.poc.service;
+
+import com.poc.model.Job;
+import com.poc.model.SuccessResponse;
+
+public interface JobService {
+ SuccessResponse createJob(Job job);
+ SuccessResponse getJobById(int id);
+ SuccessResponse getJobByType(String jobType);
+ SuccessResponse getJobByExp(int exp);
+ SuccessResponse getJobByCountry(String country);
+ SuccessResponse getJobByAvailability(String availability);
+ SuccessResponse getJobBySkills(String skills);
+ SuccessResponse getJobByLanguage(String skills);
+ SuccessResponse getJobByPayRate(String skills);
+ SuccessResponse getalljobs();
+ 
+}

@@ -1,0 +1,45 @@
+package com.poc.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.poc.model.ErrorResponse;
+import com.poc.model.Job;
+import com.poc.model.SuccessResponse;
+import com.poc.service.JobService;
+
+@RestController
+@RequestMapping("job")
+public class JobController {
+
+	@Autowired
+	private JobService jobService;
+	
+	ErrorResponse errorResponse=new ErrorResponse();
+
+	@PostMapping("/postJob")
+	public ResponseEntity<Object> createJob(@RequestBody Job job) {
+		if (job.getJobTitle() != null && !job.getJobTitle().isEmpty() && job.getJobDescription() != null
+                && !job.getJobDescription().isEmpty() && job.getCountry() != null && !job.getCountry().isEmpty()
+                && job.getState() != null && !job.getState().isEmpty() && job.getAvailability() != null
+                && !job.getAvailability().isEmpty() && job.getReplyRate() != 0 && job.getPayRate() != 0
+                && job.getExperience() != 0 && job.getSkills() != null && !job.getSkills().isEmpty()
+                && job.getLanguage() != null && !job.getLanguage().isEmpty() && job.getJobType() != null
+                && job.getUserInfo().getUserName() != null && !job.getUserInfo().getUserName().isEmpty()) {
+			
+		 SuccessResponse createjob = jobService.createJob(job);
+		 return new ResponseEntity<Object>(createjob, HttpStatus.OK);
+		}
+		else {
+			errorResponse.setStatusCode("422");
+			errorResponse.setStatusMessage("Invalid Job request");
+		}
+		return null;
+
+	}
+}

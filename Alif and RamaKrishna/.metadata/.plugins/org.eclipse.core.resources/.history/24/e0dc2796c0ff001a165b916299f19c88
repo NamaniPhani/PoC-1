@@ -1,0 +1,39 @@
+package com.poc.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.poc.model.ErrorResponse;
+import com.poc.model.SuccessResponse;
+import com.poc.model.User;
+import com.poc.service.UserService;
+@RestController
+@RequestMapping("/user")
+public class UserController {
+
+@Autowired
+private UserService userService;
+
+ErrorResponse errorResponse = new ErrorResponse();
+
+
+@PostMapping(value = "/createUser" , produces = {"application/json", "application/xml"} )
+public ResponseEntity<Object> createUser(@RequestBody User user){
+	logger.debug("incoming request for createJob JobController ::::" + job);
+if(user!=null && user.getUserName() != null && !user.getUserName().isEmpty()) {
+	SuccessResponse createUser = userService.createUser(user);
+	return new ResponseEntity<Object>(createUser, HttpStatus.OK); 
+	}
+	else {
+		errorResponse.setStatusCode("422");
+		errorResponse.setStatusMessage("Request Object is invalid");
+		return new ResponseEntity<Object>(errorResponse, HttpStatus.UNPROCESSABLE_ENTITY);
+	}
+
+}
+}

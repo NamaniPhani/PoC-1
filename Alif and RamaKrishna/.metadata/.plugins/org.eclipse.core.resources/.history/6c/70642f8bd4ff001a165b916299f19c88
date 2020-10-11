@@ -1,0 +1,53 @@
+package com.poc.service;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.apache.log4j.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.poc.dao.UserDao;
+import com.poc.model.User;
+import com.poc.response.SuccessResponse;
+import com.poc.utility.BusinessException;
+
+@Service
+public class UserServiceImpl implements UserService {
+
+	@Autowired
+	private UserDao userDao;
+	Logger logger = Logger.getLogger(this.getClass());
+
+	SuccessResponse successResponse = new SuccessResponse();
+
+	@Override
+	public SuccessResponse createUser(User user) throws BusinessException {
+		logger.debug("response for createUser UserServiceImpl ::::" + user);
+		try {
+			List<User> userList = new ArrayList<>();
+			User saveUser = userDao.save(user);
+			logger.debug("response for createUser UserServiceImpl ::::" + saveUser);
+			if (saveUser != null) {
+				userList.add(saveUser);
+				successResponse.setStatusMessage("Created User Successfully");
+				successResponse.setStatusCode("200");
+				successResponse.setUserList(userList);
+				return successResponse;
+			} else {
+				successResponse.setStatusMessage("Failed to create User");
+				successResponse.setStatusCode("422");
+				return successResponse;
+			}
+		} catch (BusinessException e) {
+			logger.debug("error response for createUser UserServiceImpl ::::" + e.getMessage());
+			successResponse.setStatusMessage(e.getMessage());
+			successResponse.setStatusCode("422");
+			
+			return successResponse;
+			
+		}
+
+	}
+
+}

@@ -1,0 +1,20 @@
+package com.poc.dao;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.poc.model.Job;
+import com.poc.model.job;
+
+public interface JobDao extends JpaRepository<Job, Long> {
+
+	 Job findJobById(int id);
+	 Job getJobById(long id);
+	 Job getJobByType(String jobType);
+	 Job getJobByExp(int exp);
+	 Job getJobByCountry(String country);
+	 job getJobByAvailability(String availability);
+	 job getJobBySkills(String skills);
+	 job getJobByLanguage(String language);
+	 job getJobByPayRate(String PayRate);
+	 job getalljobs();
+}

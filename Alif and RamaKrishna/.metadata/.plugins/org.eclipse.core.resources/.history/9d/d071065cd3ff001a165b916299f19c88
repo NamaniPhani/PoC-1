@@ -1,0 +1,10 @@
+package com.poc.service;
+
+import com.poc.model.User;
+import com.poc.response.SuccessResponse;
+
+public interface UserService {
+
+	public SuccessResponse createUser(User user);
+	
+}

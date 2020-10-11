@@ -1,0 +1,95 @@
+package com.poc.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.poc.model.ErrorResponse;
+import com.poc.model.Job;
+import com.poc.model.SuccessResponse;
+import com.poc.service.JobService;
+
+@RestController
+@RequestMapping("job")
+public class JobController {
+
+	@Autowired
+	private JobService jobService;
+
+	ErrorResponse errorResponse = new ErrorResponse();
+
+	@PostMapping("/postjob")
+	public ResponseEntity<Object> createJob(@RequestBody Job job) {
+		if (job.getJobTitle() != null && !job.getJobTitle().isEmpty() && job.getJobDescription() != null
+				&& !job.getJobDescription().isEmpty() && job.getCountry() != null && !job.getCountry().isEmpty()
+				&& job.getState() != null && !job.getState().isEmpty() && job.getAvailability() != null
+				&& !job.getAvailability().isEmpty() && job.getReplyRate() != 0 && job.getPayRate() != 0
+				&& job.getExperience() != 0 && job.getSkills() != null && !job.getSkills().isEmpty()
+				&& job.getLanguage() != null && !job.getLanguage().isEmpty() && job.getJobType() != null
+				&& job.getUserInfo().getUserName() != null && !job.getUserInfo().getUserName().isEmpty()) {
+
+			SuccessResponse createjob = jobService.createJob(job);
+			return new ResponseEntity<Object>(createjob, HttpStatus.OK);
+		} else {
+			errorResponse.setStatusCode("422");
+			errorResponse.setStatusMessage("Invalid Job request");
+			return new ResponseEntity<Object>(errorResponse, HttpStatus.UNPROCESSABLE_ENTITY);
+		}
+
+	}
+
+	@GetMapping("getjob/{id}")
+	public ResponseEntity<Object> findJobById(@PathVariable int id) {
+		if (id >= 0) {
+			SuccessResponse jobById = jobService.getJobById(id);
+			return new ResponseEntity<Object>(jobById, HttpStatus.OK);
+		} else {
+			errorResponse.setStatusCode("422");
+			errorResponse.setStatusMessage("Invalid Job request");
+			return new ResponseEntity<Object>(errorResponse, HttpStatus.UNPROCESSABLE_ENTITY);
+		}
+	}
+	@GetMapping("getByType/{type}")
+	public ResponseEntity<Object> findJobByType(@PathVariable String type) {
+		if (!type.isEmpty()) {
+			SuccessResponse jobByType = jobService.getJobByType(type);
+			return new ResponseEntity<Object>(jobByType, HttpStatus.OK);
+		} else {
+			errorResponse.setStatusCode("422");
+			errorResponse.setStatusMessage("Invalid Job request");
+			return new ResponseEntity<Object>(errorResponse, HttpStatus.UNPROCESSABLE_ENTITY);
+
+		}
+	}
+	@GetMapping("getByExp/{exp}")
+	public ResponseEntity<Object> findJobByExp(@PathVariable int exp) {
+		if (exp>=0) {
+			SuccessResponse JobByExp = jobService.getJobByExp(exp);
+			return new ResponseEntity<Object>(JobByExp, HttpStatus.OK);
+		} else {
+			errorResponse.setStatusCode("422");
+			errorResponse.setStatusMessage("Invalid Job request");
+			return new ResponseEntity<Object>(errorResponse, HttpStatus.UNPROCESSABLE_ENTITY);
+
+		}
+	}
+	
+	@GetMapping("getByCountry/{country}")
+	public ResponseEntity<Object> findJobByCountry(@PathVariable String country) {
+		if (country!=null) {
+			SuccessResponse JobByCountry = jobService.getJobByCountry(country);
+			return new ResponseEntity<Object>(JobByCountry, HttpStatus.OK);
+		} else {
+			errorResponse.setStatusCode("422");
+			errorResponse.setStatusMessage("Invalid Job request");
+			return new ResponseEntity<Object>(errorResponse, HttpStatus.UNPROCESSABLE_ENTITY);
+
+		}
+	}
+}

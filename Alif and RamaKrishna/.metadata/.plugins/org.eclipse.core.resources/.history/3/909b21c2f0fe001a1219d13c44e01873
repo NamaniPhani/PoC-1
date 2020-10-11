@@ -1,0 +1,9 @@
+package com.poc.dao;
+
+import com.poc.model.User;
+
+public interface UserDao {
+	
+	public Object createUser(User user);
+
+}
