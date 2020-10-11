@@ -1,0 +1,23 @@
+package com.poc.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.poc.model.Job;
+import com.poc.service.JobService;
+
+@RestController
+@RequestMapping("job")
+public class JobController {
+	
+	@Autowired
+	private JobService jobService;
+
+	public ResponseEntity<Object> createJob(@RequestBody Job job){
+		return null;
+		
+	}
+}

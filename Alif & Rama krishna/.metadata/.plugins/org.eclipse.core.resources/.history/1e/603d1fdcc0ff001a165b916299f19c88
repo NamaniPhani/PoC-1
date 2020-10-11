@@ -1,0 +1,47 @@
+package com.poc.service;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.poc.dao.UserDao;
+import com.poc.model.SuccessResponse;
+import com.poc.model.User;
+
+@Service
+public class UserServiceImpl implements UserService{
+
+	@Autowired
+	private UserDao userDao;
+	
+	SuccessResponse successResponse = new SuccessResponse();
+	@Override
+	public SuccessResponse createUser(User user) {
+		try {
+		List<User> userList = new ArrayList<>();
+		User saveUser = userDao.save(user);
+		if(saveUser != null){
+		userList.add(saveUser);
+		successResponse.setStatusMessage("Created User Successfully");
+		successResponse.setStatusCode("200");
+		successResponse.setUserList(userList);
+		return successResponse ;
+		}
+		else {
+			successResponse.setStatusMessage("Failed to create User");
+			successResponse.setStatusCode("422");
+			return successResponse;
+		}
+		}
+		catch(Exception e){
+			
+			successResponse.setStatusMessage(e.getMessage());
+			successResponse.setStatusCode("422");
+			return successResponse;
+		}
+		
+	}
+
+}

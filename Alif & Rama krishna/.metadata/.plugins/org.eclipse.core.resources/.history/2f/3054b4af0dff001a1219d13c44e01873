@@ -1,0 +1,9 @@
+package com.poc.dao;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.poc.model.Job;
+
+public interface JobDao extends JpaRepository<Job, Long> {
+
+}

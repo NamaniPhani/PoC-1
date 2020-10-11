@@ -1,0 +1,20 @@
+package com.poc.model;
+
+import javax.persistence.OneToOne;
+
+public class Job {
+	private int id;
+	private String jobTitle;
+	private String jobDescription;
+	private String country;
+	private String state;
+	private String availability;
+	private int replyRate;
+	private int payRate;
+	private int experience;
+	private String skills;
+	private String language;
+	private String jobType;
+	@OneToOne
+	private User userInfo;
+}

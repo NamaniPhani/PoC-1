@@ -1,0 +1,46 @@
+2020-09-26 12:03:02 DEBUG incoming request for findJobByLanguage JobController ::::Java
+2020-09-26 12:03:02 DEBUG incoming request for getJobBySkills JobServiceImpl ::::Java
+2020-09-26 12:03:02 DEBUG response for getJobBySkills JobServiceImpl ::::[com.poc.model.Job@6377355d]
+2020-09-26 12:03:02 DEBUG response for getAllJobs JobController ::::com.poc.model.SuccessResponse@9178308
+2020-09-26 12:03:51 DEBUG incoming request for findJobByLanguage JobController ::::Java
+2020-09-26 12:03:51 DEBUG incoming request for getJobBySkills JobServiceImpl ::::Java
+2020-09-26 12:03:51 DEBUG response for getJobBySkills JobServiceImpl ::::[Job [id=67, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=IND, state=TN, availability=Part-Time, replyRate=1, payRate=44, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Development, userInfo=com.poc.model.User@7162a26a]]
+2020-09-26 12:03:51 DEBUG response for getAllJobs JobController ::::com.poc.model.SuccessResponse@2ee84006
+2020-09-26 12:50:13 DEBUG incoming request for findJobByLanguage JobController ::::Java
+2020-09-26 12:50:13 DEBUG incoming request for getJobBySkills JobServiceImpl ::::Java
+2020-09-26 12:50:13 DEBUG response for getJobBySkills JobServiceImpl ::::[Job [id=67, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=IND, state=TN, availability=Part-Time, replyRate=1, payRate=44, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Development, userInfo=User [id=68, userName=New Way Coders]]]
+2020-09-26 12:50:13 DEBUG response for getAllJobs JobController ::::com.poc.response.SuccessResponse@7b14264a
+2020-09-26 12:50:28 DEBUG incoming request for save JobServiceImpl ::::org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@c01405f
+2020-09-26 12:50:29 DEBUG file uploaded successfully
+2020-09-26 13:09:09 DEBUG incoming request for findJobByLanguage JobController ::::Java,Hibernate
+2020-09-26 13:09:09 DEBUG incoming request for getJobBySkills JobServiceImpl ::::Java,Hibernate
+2020-09-26 13:09:09 DEBUG response for getJobBySkills JobServiceImpl ::::[]
+2020-09-26 13:09:09 DEBUG response for getAllJobs JobController ::::com.poc.response.SuccessResponse@2e16b829
+2020-09-26 13:19:35 DEBUG incoming request for findJobByLanguage JobController ::::Java,Hibernate
+2020-09-26 13:19:35 DEBUG incoming request for getJobBySkills JobServiceImpl ::::Java,Hibernate
+2020-09-26 13:19:35 DEBUG response for getJobBySkills JobServiceImpl ::::[Job [id=67, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=IND, state=TN, availability=Part-Time, replyRate=1, payRate=44, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Development, userInfo=User [id=68, userName=New Way Coders]]]
+2020-09-26 13:19:35 DEBUG response for getAllJobs JobController ::::com.poc.response.SuccessResponse@f847e48
+2020-09-26 13:20:17 DEBUG incoming request for findJobByLanguage JobController ::::Java,Hibernate,python
+2020-09-26 13:20:17 DEBUG incoming request for getJobBySkills JobServiceImpl ::::Java,Hibernate,python
+2020-09-26 13:20:17 DEBUG response for getJobBySkills JobServiceImpl ::::[Job [id=74, jobTitle=abc, jobDescription=bac, country=PAK, state=TN, availability=yes, replyRate=19, payRate=23, experience=6, skills=python, language=English, jobType=Dev, userInfo=User [id=75, userName=abc]], Job [id=77, jobTitle=abc, jobDescription=bac, country=PAK, state=TN, availability=yes, replyRate=19, payRate=23, experience=6, skills=python, language=English, jobType=Dev, userInfo=User [id=78, userName=abc]], Job [id=79, jobTitle=abc, jobDescription=bac, country=PAK, state=TN, availability=yes, replyRate=19, payRate=23, experience=6, skills=python, language=English, jobType=Dev, userInfo=User [id=80, userName=abc]], Job [id=81, jobTitle=abc, jobDescription=bac, country=PAK, state=TN, availability=yes, replyRate=19, payRate=23, experience=6, skills=python, language=English, jobType=Dev, userInfo=User [id=82, userName=abc]]]
+2020-09-26 13:20:17 DEBUG response for getAllJobs JobController ::::com.poc.response.SuccessResponse@f847e48
+2020-09-26 13:22:08 DEBUG incoming request for findJobByLanguage JobController ::::Java,Hibernate,python, micro
+2020-09-26 13:22:08 DEBUG incoming request for getJobBySkills JobServiceImpl ::::Java,Hibernate,python, micro
+2020-09-26 13:22:08 DEBUG response for getJobBySkills JobServiceImpl ::::[Job [id=67, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=IND, state=TN, availability=Part-Time, replyRate=1, payRate=44, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Development, userInfo=User [id=68, userName=New Way Coders]]]
+2020-09-26 13:22:08 DEBUG response for getAllJobs JobController ::::com.poc.response.SuccessResponse@f847e48
+2020-09-26 13:28:24 DEBUG incoming request for findJobByLanguage JobController ::::Java,Hibernate,python, micro
+2020-09-26 13:28:24 DEBUG incoming request for getJobBySkills JobServiceImpl ::::Java,Hibernate,python, micro
+2020-09-26 13:28:24 DEBUG response for getJobBySkills JobServiceImpl ::::[Job [id=67, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=IND, state=TN, availability=Part-Time, replyRate=1, payRate=44, experience=5, skills=Java, Spring Boot, Hibernate, Micro Service, Oracle, REST, language=English, jobType=Development, userInfo=User [id=68, userName=New Way Coders]]]
+2020-09-26 13:28:24 DEBUG response for getAllJobs JobController ::::com.poc.response.SuccessResponse@f847e48
+2020-09-26 13:52:18 DEBUG incoming request for findJobByLanguage JobController ::::Java,Hibernate,python
+2020-09-26 13:52:18 DEBUG incoming request for getJobBySkills JobServiceImpl ::::Java,Hibernate,python
+2020-09-26 13:52:18 DEBUG response for getJobBySkills JobServiceImpl ::::[Job [id=74, jobTitle=abc, jobDescription=bac, country=PAK, state=TN, availability=yes, replyRate=19, payRate=23, experience=6, skills=python, language=English, jobType=Dev, userInfo=User [id=75, userName=abc]], Job [id=77, jobTitle=abc, jobDescription=bac, country=PAK, state=TN, availability=yes, replyRate=19, payRate=23, experience=6, skills=python, language=English, jobType=Dev, userInfo=User [id=78, userName=abc]], Job [id=79, jobTitle=abc, jobDescription=bac, country=PAK, state=TN, availability=yes, replyRate=19, payRate=23, experience=6, skills=python, language=English, jobType=Dev, userInfo=User [id=80, userName=abc]], Job [id=81, jobTitle=abc, jobDescription=bac, country=PAK, state=TN, availability=yes, replyRate=19, payRate=23, experience=6, skills=python, language=English, jobType=Dev, userInfo=User [id=82, userName=abc]]]
+2020-09-26 13:52:18 DEBUG response for getAllJobs JobController ::::com.poc.response.SuccessResponse@655a9a34
+2020-09-26 13:52:26 DEBUG incoming request for findJobByLanguage JobController ::::python
+2020-09-26 13:52:26 DEBUG incoming request for getJobBySkills JobServiceImpl ::::python
+2020-09-26 13:52:26 DEBUG response for getJobBySkills JobServiceImpl ::::[]
+2020-09-26 13:52:26 DEBUG response for getAllJobs JobController ::::com.poc.response.SuccessResponse@655a9a34
+2020-09-26 13:58:23 DEBUG incoming request for findJobByLanguage JobController ::::python
+2020-09-26 13:58:23 DEBUG incoming request for getJobBySkills JobServiceImpl ::::python
+2020-09-26 13:58:23 DEBUG response for getJobBySkills JobServiceImpl ::::[Job [id=74, jobTitle=abc, jobDescription=bac, country=PAK, state=TN, availability=yes, replyRate=19, payRate=23, experience=6, skills=python, language=English, jobType=Dev, userInfo=User [id=75, userName=abc]], Job [id=77, jobTitle=abc, jobDescription=bac, country=PAK, state=TN, availability=yes, replyRate=19, payRate=23, experience=6, skills=python, language=English, jobType=Dev, userInfo=User [id=78, userName=abc]], Job [id=79, jobTitle=abc, jobDescription=bac, country=PAK, state=TN, availability=yes, replyRate=19, payRate=23, experience=6, skills=python, language=English, jobType=Dev, userInfo=User [id=80, userName=abc]], Job [id=81, jobTitle=abc, jobDescription=bac, country=PAK, state=TN, availability=yes, replyRate=19, payRate=23, experience=6, skills=python, language=English, jobType=Dev, userInfo=User [id=82, userName=abc]]]
+2020-09-26 13:58:23 DEBUG response for getAllJobs JobController ::::com.poc.response.SuccessResponse@17b48344

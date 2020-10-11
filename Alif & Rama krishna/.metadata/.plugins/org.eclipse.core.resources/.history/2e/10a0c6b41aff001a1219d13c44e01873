@@ -1,0 +1,231 @@
+package com.poc.service;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.poc.dao.JobDao;
+import com.poc.model.Job;
+import com.poc.model.SuccessResponse;
+
+@Service
+public class JobServiceImpl implements JobService {
+
+	@Autowired
+	private JobDao jobDao;
+	SuccessResponse successResponse = new SuccessResponse();
+
+	@Override
+	public SuccessResponse createJob(Job job) {
+		try {
+			List<Job> jobList = new ArrayList<Job>();
+			Job saveJob = jobDao.save(job);
+			jobList.add(saveJob);
+			if (saveJob != null) {
+				successResponse.setStatusCode("200");
+				successResponse.setStatusMessage("Job created successfully");
+				successResponse.setJoblist(jobList);
+				return successResponse;
+			}
+			else {
+				successResponse.setStatusCode("422");
+				successResponse.setStatusMessage("failed to create job");
+				return successResponse;
+			}
+		} catch (Exception e) {
+			successResponse.setStatusCode("422");
+			successResponse.setStatusMessage(e.getMessage());
+			return successResponse;
+		}
+	}
+
+	@Override
+	public SuccessResponse getJobById(int id) {
+		List<Job> jobList = new ArrayList<>();
+		try {
+		 List<Job> findJobById = jobDao.findJobById(id);
+		 if(findJobById!=null) {
+			 successResponse.setStatusCode("200");
+			 successResponse.setStatusMessage("record fetched successfully");
+			 successResponse.setJoblist(findJobById);
+			 return successResponse;
+		 }
+		 else {
+			 successResponse.setStatusCode("200");
+			 successResponse.setStatusMessage("record is not found");
+			 successResponse.setJoblist(jobList);
+			 return successResponse;
+		 }
+		} catch (Exception e) {
+			 successResponse.setStatusCode("422");
+			 successResponse.setStatusMessage(e.getMessage());
+			 return successResponse;
+		}
+	}
+
+	@Override
+	public SuccessResponse getJobByType(String jobType) {
+		List<Job> jobList = new ArrayList<>();
+		try {
+			 List<Job> findJobByType = jobDao.findJobByType(jobType);
+			 if(findJobByType!=null) {
+				 successResponse.setStatusCode("200");
+				 successResponse.setStatusMessage("record fetched successfully");
+				 successResponse.setJoblist(findJobByType);
+				 return successResponse;
+			 }
+			 else {
+				 successResponse.setStatusCode("200");
+				 successResponse.setStatusMessage("record is not found");
+				 successResponse.setJoblist(jobList);
+				 return successResponse;
+			 }
+			} catch (Exception e) {
+				 successResponse.setStatusCode("422");
+				 successResponse.setStatusMessage(e.getMessage());
+				 return successResponse;
+			}
+	}
+
+	@Override
+	public SuccessResponse getJobByExp(int exp) {
+		
+		List<Job> jobList = new ArrayList<>();
+		try {
+			 List<Job> findJobByExp = jobDao.findJobByExp(exp);
+			 if(findJobByExp!=null) {
+				 successResponse.setStatusCode("200");
+				 successResponse.setStatusMessage("record fetched successfully");
+				 successResponse.setJoblist(findJobByExp);
+				 return successResponse;
+			 }
+			 else {
+				 successResponse.setStatusCode("200");
+				 successResponse.setStatusMessage("record is not found");
+				 successResponse.setJoblist(jobList);
+				 return successResponse;
+			 }
+			} catch (Exception e) {
+				 successResponse.setStatusCode("422");
+				 successResponse.setStatusMessage(e.getMessage());
+				 return successResponse;
+			}
+	}
+
+	@Override
+	public SuccessResponse getJobByCountry(String country) {
+
+		List<Job> jobList = new ArrayList<>();
+		try {
+			  List<Job> findJobByCountry = jobDao.findJobByCountry(country);
+			 if(findJobByCountry!=null) {
+				 successResponse.setStatusCode("200");
+				 successResponse.setStatusMessage("record fetched successfully");
+				 successResponse.setJoblist(findJobByCountry);
+				 return successResponse;
+			 }
+			 else {
+				 successResponse.setStatusCode("200");
+				 successResponse.setStatusMessage("record is not found");
+				 successResponse.setJoblist(jobList);
+				 return successResponse;
+			 }
+			} catch (Exception e) {
+				 successResponse.setStatusCode("422");
+				 successResponse.setStatusMessage(e.getMessage());
+				 return successResponse;
+			}
+	}
+
+	@Override
+	public SuccessResponse getJobByAvailability(String availability) {
+		List<Job> jobList = new ArrayList<>();
+		try {
+			  List<Job> findJobByAvailability = jobDao.findJobByAvailability(availability);
+			 if(findJobByAvailability!=null) {
+				 successResponse.setStatusCode("200");
+				 successResponse.setStatusMessage("record fetched successfully");
+				 successResponse.setJoblist(findJobByAvailability);
+				 return successResponse;
+			 }
+			 else {
+				 successResponse.setStatusCode("200");
+				 successResponse.setStatusMessage("record is not found");
+				 successResponse.setJoblist(jobList);
+				 return successResponse;
+			 }
+			} catch (Exception e) {
+				 successResponse.setStatusCode("422");
+				 successResponse.setStatusMessage(e.getMessage());
+				 return successResponse;
+			}
+	}
+
+	@Override
+	public SuccessResponse getJobBySkills(String skills) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public SuccessResponse getJobByLanguage(String language) {
+		List<Job> jobList = new ArrayList<>();
+		try {
+			   List<Job> findJobByLanguage = jobDao.findJobByLanguage(language);
+			 if(findJobByLanguage!=null) {
+				 successResponse.setStatusCode("200");
+				 successResponse.setStatusMessage("record fetched successfully");
+				 successResponse.setJoblist(findJobByLanguage);
+				 return successResponse;
+			 }
+			 else {
+				 successResponse.setStatusCode("200");
+				 successResponse.setStatusMessage("record is not found");
+				 successResponse.setJoblist(jobList);
+				 return successResponse;
+			 }
+			} catch (Exception e) {
+				 successResponse.setStatusCode("422");
+				 successResponse.setStatusMessage(e.getMessage());
+				 return successResponse;
+			}
+	}
+
+	@Override
+	public SuccessResponse getJobByPayRate(int low, int high) {
+		List<Job> jobList = new ArrayList<>();
+		try {
+			 List<Job> findJobByPayRate = jobDao.findJobByPayRate(low, high);
+			 if(findJobByPayRate!=null) {
+				 successResponse.setStatusCode("200");
+				 successResponse.setStatusMessage("record fetched successfully");
+				 successResponse.setJoblist(findJobByPayRate);
+				 return successResponse;
+			 }
+			 else {
+				 successResponse.setStatusCode("200");
+				 successResponse.setStatusMessage("record is not found");
+				 successResponse.setJoblist(jobList);
+				 return successResponse;
+			 }
+			} catch (Exception e) {
+				 successResponse.setStatusCode("422");
+				 successResponse.setStatusMessage(e.getMessage());
+				 return successResponse;
+			}
+	}
+
+	@Override
+	public SuccessResponse getalljobs() {
+	try {
+		List<Job> findAll = jobDao.findAll();
+	} catch (Exception e) {
+		// TODO: handle exception
+	}
+		return null;
+	}
+
+}

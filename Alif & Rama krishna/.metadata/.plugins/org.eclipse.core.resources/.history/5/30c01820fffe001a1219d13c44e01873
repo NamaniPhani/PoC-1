@@ -1,0 +1,45 @@
+package com.poc.model;
+
+import java.util.List;
+
+public class SuccessResponse {
+
+	private String statusCode;
+	private String statusMessage;
+	private List<User> userList;
+	private List<Job> joblist;
+
+	public List<Job> getJoblist() {
+	
+
+	public String getStatusCode() {
+		return statusCode;
+	}
+
+	public void setStatusCode(String statusCode) {
+		this.statusCode = statusCode;
+	}
+
+	public String getStatusMessage() {
+		return statusMessage;
+	}
+
+	public void setStatusMessage(String statusMessage) {
+		this.statusMessage = statusMessage;
+	}
+
+	public List<User> getUserList() {
+		return userList;
+	}
+
+	public void setUserList(List<User> userList) {
+		this.userList = userList;
+	}
+	return joblist;
+	}
+
+	public void setJoblist(List<Job> joblist) {
+		this.joblist = joblist;
+	}
+
+}

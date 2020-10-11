@@ -1,0 +1,8 @@
+package com.poc.service;
+
+import com.poc.model.Job;
+import com.poc.model.SuccessResponse;
+
+public interface JobService {
+ SuccessResponse createJob(Job job);
+}

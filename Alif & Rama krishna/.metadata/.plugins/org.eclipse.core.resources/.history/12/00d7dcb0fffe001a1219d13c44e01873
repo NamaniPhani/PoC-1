@@ -1,0 +1,34 @@
+package com.poc.service;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.poc.dao.JobDao;
+import com.poc.model.Job;
+import com.poc.model.SuccessResponse;
+
+public class JobServiceImpl implements JobService {
+
+	@Autowired
+	private JobDao jobDao;
+	SuccessResponse successResponse = new SuccessResponse();
+
+	@Override
+	public SuccessResponse createJob(Job job) {
+		try {
+			List<Job> jobList = new ArrayList<Job>();
+			Job saveJob = jobDao.save(job);
+			jobList.add(saveJob);
+			if (saveJob != null) {
+				successResponse.setStatusCode("200");
+				successResponse.setStatusMessage("Job created successfully");
+				successResponse.setJoblist(jobList);
+				return successResponse;
+			}
+		} catch (Exception e) {
+		}
+	}
+
+}
